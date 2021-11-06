@@ -1,4 +1,5 @@
 #/usr/bin/bash
+echo $2
 while read -r image;
 do
   #echo "IMAGE " $image
@@ -7,7 +8,7 @@ do
   if [ -f $label_file ]; then
     while read -r label;
     do
-      echo $image $label >> test_train.txt
+      echo $image $label >> $2
     done < $label_file
   #else
     #echo "ARCHIVO " $label_file " no existe"
