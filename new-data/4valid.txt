@@ -1,0 +1,2000 @@
+/home/jose/media/paper_2/datasets/house1_rgb/image_45974.jpg 285,326,345,386,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1542.jpg 196,278,228,310,3 224,299,242,317,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1402.jpg 51,248,159,356,1 226,315,308,397,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1260.jpg 376,236,456,316,1 156,313,194,351,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46790.jpg 210,305,322,417,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46323.jpg 0,332,56,388,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1302.jpg 411,255,479,323,2 156,311,194,349,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1366.jpg 322,228,478,384,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_455.jpg 194,336,242,384,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_806.jpg 413,307,475,369,1 0,284,42,326,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2281.jpg 235,293,339,397,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1619.jpg 188,295,208,315,3 208,300,226,318,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_862.jpg 76,276,208,408,1 329,255,383,309,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2237.jpg 245,275,287,317,3 224,301,272,349,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_417.jpg 167,332,211,376,2 2,253,136,387,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2291.jpg 245,282,365,402,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1441.jpg 124,281,156,313,3 201,286,233,318,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2005.jpg 259,281,291,313,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49027.jpg 386,274,478,366,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2690.jpg 342,236,408,302,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1424.jpg 132,277,166,311,3 229,285,261,317,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_162.jpg 286,335,346,395,0 344,347,398,401,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3568.jpg -1,293,31,325,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2550.jpg 288,227,364,303,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46280.jpg 106,274,246,414,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2455.jpg 289,242,349,302,2 4,250,84,330,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1404.jpg 412,293,478,359,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47565.jpg 241,324,305,388,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48325.jpg 193,325,263,395,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48912.jpg 227,304,335,412,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1126.jpg 198,323,312,437,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47614.jpg 371,331,405,365,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1097.jpg 28,282,108,362,2 171,258,291,378,1 92,318,144,370,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45934.jpg 197,322,265,390,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1660.jpg 172,299,190,317,3 158,295,178,315,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_235.jpg 63,187,251,375,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_211.jpg 1,278,89,366,0 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1916.jpg 218,159,292,233,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1107.jpg 16,289,82,355,2 65,313,107,355,2 167,258,285,376,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47486.jpg 72,336,130,394,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1352.jpg 152,265,200,313,3 349,274,395,320,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48349.jpg 250,309,346,405,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47625.jpg 381,331,427,377,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47531.jpg 171,333,225,387,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1901.jpg 195,195,231,231,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1311.jpg 413,265,467,319,2 156,302,196,342,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_877.jpg 127,270,247,390,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1003.jpg 137,289,235,387,1 289,307,357,375,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3359.jpg 30,140,390,500,0 334,326,442,434,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3442.jpg 21,275,59,313,2 345,276,377,308,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_839.jpg 42,182,234,374,1 380,246,452,318,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3488.jpg 6,270,62,326,2 428,273,478,323,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3369.jpg 35,152,367,484,0 317,329,391,403,0 425,336,477,388,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2647.jpg 110,269,232,391,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_568.jpg 300,205,444,349,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1417.jpg 225,309,297,381,1 49,247,159,357,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_555.jpg 293,336,361,404,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1133.jpg 160,275,270,385,1 -1,293,31,325,2 25,315,51,341,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2666.jpg 189,300,261,372,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1713.jpg 62,319,112,369,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2418.jpg 142,335,194,387,2 306,269,404,367,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2206.jpg 215,315,281,381,2 0,293,24,317,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2113.jpg 251,285,397,431,1 226,333,276,383,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1391.jpg 51,246,159,354,1 224,307,300,383,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_995.jpg 149,294,241,386,1 286,291,394,399,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2605.jpg 271,251,333,313,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_179.jpg 287,335,347,395,2 344,350,398,404,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47397.jpg 3,327,63,387,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2622.jpg 38,256,160,378,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1358.jpg 51,243,159,351,1 1,281,65,345,1 214,299,332,417,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_974.jpg 166,264,218,316,3 231,415,339,523,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1549.jpg 218,288,316,386,1 182,293,248,359,1 0,307,42,349,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46829.jpg 123,324,197,398,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46353.jpg 0,342,40,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_203.jpg 3,194,75,266,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1311.jpg 29,232,181,384,1 219,310,291,382,2 0,286,48,334,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_908.jpg 215,311,283,379,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1359.jpg 147,262,191,306,3 330,267,376,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1364.jpg 48,247,158,357,1 216,273,336,393,1 0,262,84,346,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46733.jpg 398,312,466,380,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1731.jpg 200,300,220,320,3 98,306,118,326,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3211.jpg 77,269,199,391,1 202,291,300,389,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46874.jpg 162,325,226,389,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2538.jpg 292,306,404,418,1 214,296,286,368,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1019.jpg 137,274,241,378,1 254,304,322,372,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_823.jpg 0,293,66,359,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2617.jpg 262,251,314,303,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3153.jpg 174,317,214,357,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2407.jpg 133,334,179,380,2 305,241,463,399,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2421.jpg 152,336,196,380,2 287,269,385,367,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3172.jpg 61,290,147,376,1 193,303,269,379,2 249,322,321,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_430.jpg 166,331,220,385,2 0,280,56,336,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_437.jpg 172,329,228,385,2 0,300,28,328,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3335.jpg 95,213,317,435,0 382,273,478,369,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2629.jpg 260,256,302,298,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1770.jpg 147,273,237,363,1 58,319,110,371,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48962.jpg 353,258,477,382,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48245.jpg 33,334,87,388,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1437.jpg 127,279,161,313,3 209,286,237,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3023.jpg 174,277,276,379,1 344,340,412,408,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1314.jpg 31,230,181,380,1 219,312,291,384,2 -1,276,49,326,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1767.jpg 233,302,253,322,3 58,314,74,330,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3597.jpg 311,352,359,400,2 0,234,180,414,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_947.jpg 223,261,263,301,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48063.jpg 7,297,101,391,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3616.jpg 3,265,75,337,1 290,344,350,404,2 70,188,328,446,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48300.jpg 138,319,220,401,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2947.jpg 0,244,114,358,1 189,331,243,385,2 300,258,416,374,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2589.jpg 327,277,437,387,1 -1,225,25,251,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2399.jpg 4,260,70,326,2 288,250,336,298,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2252.jpg 223,283,267,327,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46839.jpg 120,323,196,399,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2777.jpg 258,326,322,390,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2309.jpg 303,279,413,389,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_525.jpg 273,334,329,390,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47637.jpg 408,328,444,364,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2857.jpg 192,242,358,408,0 0,247,46,293,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2177.jpg 222,305,268,351,3 355,260,399,304,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2198.jpg 314,261,356,303,3 223,304,267,348,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45873.jpg 3,306,107,410,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46214.jpg 405,308,477,380,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3572.jpg 2,307,40,345,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_499.jpg 235,329,307,401,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1921.jpg 105,264,213,372,1 345,356,413,424,3 0,262,108,370,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_553.jpg 293,332,361,400,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1518.jpg 121,263,215,357,1 232,306,332,406,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2059.jpg 228,259,272,303,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1473.jpg 126,279,156,309,3 163,283,199,319,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3461.jpg 123,304,195,376,1 383,272,475,364,0 377,329,419,371,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46428.jpg 167,321,245,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45888.jpg 46,321,118,393,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45903.jpg 70,312,168,410,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1216.jpg 264,249,350,335,1 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3026.jpg 134,264,264,394,1 344,342,414,412,2 245,311,289,355,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2514.jpg 280,229,350,299,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3031.jpg 160,266,212,318,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46013.jpg 340,332,384,376,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2072.jpg 228,265,276,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3614.jpg 3,265,73,335,1 61,175,339,453,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_111.jpg 289,337,347,395,2 349,352,391,394,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3404.jpg 21,269,69,317,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2355.jpg 52,320,86,354,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2154.jpg 401,264,457,320,3 222,305,268,351,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46020.jpg 343,332,391,380,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3192.jpg 69,281,155,367,1 195,311,255,371,1 218,320,286,388,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_571.jpg 266,222,382,338,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3350.jpg 99,179,381,461,0 374,276,478,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1347.jpg 52,250,156,354,1 220,316,300,396,2 1,274,81,354,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2520.jpg 282,232,350,300,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2668.jpg 291,253,345,307,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3325.jpg 157,230,337,410,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1790.jpg 253,300,273,320,3 20,316,38,334,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_245.jpg 344,347,398,401,2 88,235,258,405,0 291,345,345,399,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46973.jpg 353,309,431,387,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1369.jpg 346,246,478,378,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1698.jpg 132,300,156,324,3 174,299,196,321,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1478.jpg 47,248,151,352,1 232,301,314,383,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3237.jpg 144,277,176,309,3 245,271,283,309,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2844.jpg 219,324,285,390,1 0,286,30,316,1 251,215,449,413,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46787.jpg 216,307,324,415,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3124.jpg 174,304,216,346,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2138.jpg 222,305,268,351,3 447,278,479,310,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45807.jpg 198,251,330,383,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_652.jpg 60,284,144,368,2 260,265,388,393,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48070.jpg 0,317,86,403,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46970.jpg 341,314,427,400,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1949.jpg 90,232,262,404,0 413,372,461,420,2 74,299,128,353,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1462.jpg 44,238,160,354,1 220,315,302,397,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1020.jpg 138,280,242,384,1 255,305,321,371,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_540.jpg 280,335,354,409,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46468.jpg 279,317,361,399,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45907.jpg 111,313,177,379,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47496.jpg 102,341,150,389,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3337.jpg 95,210,319,434,0 385,282,479,376,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46191.jpg 435,324,479,368,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3319.jpg 189,245,339,395,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48057.jpg 35,287,153,405,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3600.jpg 1,359,27,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2178.jpg 206,329,264,387,2 4,266,128,390,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3117.jpg 172,291,216,335,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_88.jpg 87,191,345,449,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3270.jpg 186,275,222,311,3 102,276,138,312,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46756.jpg 322,307,398,383,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3102.jpg 345,344,411,410,1 0,285,78,363,1 273,327,335,389,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48710.jpg 120,290,222,392,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_180.jpg 287,335,347,395,2 343,348,399,404,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48835.jpg 83,325,155,397,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46000.jpg 324,332,372,380,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2800.jpg 243,328,303,388,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3109.jpg 171,275,215,319,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2498.jpg 249,173,441,365,0 281,247,323,289,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1974.jpg 273,282,305,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_937.jpg 231,313,293,375,1 418,341,476,399,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1067.jpg 211,354,307,450,1 156,313,196,353,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48750.jpg 23,327,97,401,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46451.jpg 218,313,308,403,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_680.jpg 153,248,297,392,0 122,302,184,364,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1900.jpg 287,284,313,310,3 349,281,379,311,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1484.jpg 136,279,166,309,3 167,289,197,319,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_594.jpg 196,247,298,349,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1671.jpg 100,319,170,389,2 387,341,451,405,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1835.jpg 51,287,87,323,3 283,294,305,316,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2526.jpg 171,273,285,387,1 296,334,376,414,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1296.jpg 398,256,478,336,2 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2233.jpg 212,320,286,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_387.jpg 99,250,217,368,1 181,279,281,379,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2339.jpg 248,256,296,304,2 67,267,119,319,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_322.jpg 100,277,198,375,1 247,297,319,369,1 301,324,377,400,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1129.jpg 0,285,54,339,2 173,279,279,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_270.jpg 329,343,395,409,2 116,259,238,381,0 287,314,349,376,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48817.jpg 43,326,115,398,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3204.jpg 75,285,177,387,1 192,292,288,388,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46459.jpg 258,323,324,389,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1309.jpg 29,240,165,376,1 218,312,290,384,2 0,293,48,341,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2964.jpg 18,246,138,366,1 219,333,289,403,2 323,267,433,377,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3668.jpg 141,153,479,491,0 1,288,41,328,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_936.jpg 232,314,294,376,1 419,345,475,401,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3565.jpg 122,248,226,352,1 312,344,372,404,2 0,264,108,372,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47677.jpg 456,330,476,350,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_214.jpg 1,258,85,342,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3512.jpg 0,264,66,330,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1288.jpg 156,313,194,351,3 417,259,479,321,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1701.jpg 174,299,196,321,3 131,301,153,323,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46810.jpg 141,306,249,414,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1926.jpg 105,267,207,369,1 365,362,421,418,3 0,229,160,389,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1609.jpg 217,295,239,317,3 188,293,212,317,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3478.jpg 87,284,183,380,1 296,229,478,411,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2401.jpg 2,261,66,325,2 288,252,336,300,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3102.jpg 166,274,212,320,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1188.jpg 194,306,270,382,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3006.jpg 136,270,240,374,1 323,339,397,413,2 211,272,341,402,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2048.jpg 231,261,273,303,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49038.jpg 390,281,476,367,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2990.jpg 178,272,242,336,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1773.jpg 242,301,260,319,3 46,310,68,332,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48660.jpg 338,302,448,412,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_298.jpg 363,244,479,360,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2855.jpg 218,229,400,411,0 0,248,48,296,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1550.jpg 212,284,316,388,1 183,279,245,341,1 1,308,45,352,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_933.jpg 247,258,293,304,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_775.jpg 300,320,374,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_477.jpg 222,334,274,386,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3275.jpg 271,262,421,412,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2469.jpg 13,263,103,353,1 292,243,350,301,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2542.jpg 285,220,373,308,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2123.jpg 249,309,351,411,1 228,341,268,381,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2164.jpg 381,267,441,327,3 222,302,270,350,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48074.jpg -1,327,67,395,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1831.jpg 280,295,302,317,3 44,298,68,322,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2361.jpg 67,322,99,354,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2384.jpg 98,327,140,369,2 425,303,479,357,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1710.jpg 62,319,112,369,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_908.jpg 292,265,338,311,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2790.jpg 239,326,303,390,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_471.jpg 200,333,266,399,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1427.jpg 48,244,160,356,1 229,304,311,386,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_585.jpg 292,336,364,408,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1735.jpg 3,249,123,369,1 85,331,113,359,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_526.jpg 274,334,330,390,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1248.jpg 327,221,447,341,1 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_860.jpg 71,249,215,393,1 331,253,387,309,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45995.jpg 320,331,370,381,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48350.jpg 252,296,348,392,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3532.jpg 2,243,136,377,1 159,245,309,395,0 309,336,383,410,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3391.jpg 23,100,463,540,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2054.jpg 226,310,298,382,1 428,343,478,393,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_456.jpg 198,332,250,384,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_505.jpg 253,334,313,394,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3683.jpg 151,161,479,489,0 0,292,32,324,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1572.jpg 23,279,133,389,1 190,263,284,357,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46210.jpg 414,313,478,377,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46851.jpg 130,330,192,392,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1741.jpg 215,306,229,320,3 93,312,111,330,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_842.jpg 35,273,131,369,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_812.jpg 0,284,48,332,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2590.jpg 331,277,441,387,1 0,252,28,280,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3420.jpg 25,114,437,526,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46365.jpg 0,332,52,384,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1062.jpg 141,296,201,356,2 214,282,310,378,1 173,342,213,382,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3382.jpg 22,276,58,312,2 270,287,296,313,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46914.jpg 242,326,298,382,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47641.jpg 412,332,446,366,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1364.jpg 144,259,194,309,3 323,274,367,318,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48797.jpg 20,334,84,398,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1075.jpg 206,313,316,423,1 156,314,194,352,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2129.jpg 222,306,268,352,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2431.jpg 290,247,342,299,2 0,262,62,324,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1423.jpg 132,276,166,310,3 230,285,262,317,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48826.jpg 77,333,127,383,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46071.jpg 436,330,468,362,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2073.jpg 230,261,276,307,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3428.jpg 21,274,61,314,2 327,281,357,311,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2970.jpg 28,254,148,374,1 270,241,444,415,1 264,344,312,392,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47544.jpg 200,330,254,384,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1274.jpg 402,239,478,315,1 156,313,194,351,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1394.jpg 390,275,480,365,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_942.jpg 223,324,283,384,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2305.jpg 291,273,405,387,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46742.jpg 372,307,448,383,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3501.jpg 1,270,57,326,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3680.jpg 146,156,478,488,0 2,291,38,327,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46998.jpg 434,322,478,366,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_857.jpg 32,197,256,421,1 327,247,393,313,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2607.jpg 0,261,106,367,1 367,307,477,417,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_977.jpg 177,305,249,377,1 344,312,412,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2879.jpg 80,243,234,397,0 0,298,60,358,1 235,308,307,380,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1381.jpg 147,272,171,296,3 297,276,333,312,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2379.jpg 95,328,131,364,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2924.jpg 0,258,108,366,1 253,268,369,384,1 96,307,174,385,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1049.jpg 210,394,336,520,1 156,313,196,353,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1145.jpg 157,310,195,348,3 212,343,310,441,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2200.jpg 306,266,352,312,3 223,306,267,350,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2416.jpg 137,334,189,386,2 306,265,416,375,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2928.jpg 0,258,100,358,1 134,316,186,368,2 256,267,372,383,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_389.jpg 141,257,279,395,1 94,252,218,376,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1313.jpg 183,142,197,156,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3084.jpg 155,271,215,331,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2037.jpg 214,304,318,408,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1401.jpg 401,282,477,358,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2463.jpg 215,333,269,387,2 96,260,218,382,0 3,267,93,357,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2203.jpg 303,268,347,312,3 223,306,267,350,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46877.jpg 175,325,237,387,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1033.jpg 218,402,330,514,1 152,312,200,360,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1742.jpg 215,306,229,320,3 89,311,109,331,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3649.jpg 131,165,437,471,0 0,285,48,333,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46304.jpg 22,284,142,404,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_137.jpg 287,335,347,395,2 334,344,392,402,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2646.jpg 254,244,322,312,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2618.jpg 39,262,139,362,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46010.jpg 336,332,380,376,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2149.jpg 420,267,470,317,3 222,306,268,352,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46971.jpg 351,317,429,395,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47312.jpg 272,280,400,408,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46892.jpg 197,326,257,386,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45882.jpg 16,311,110,405,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2252.jpg 222,306,300,384,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2548.jpg 286,224,368,306,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2013.jpg 252,270,290,308,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2931.jpg 22,219,186,383,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3390.jpg 23,267,73,317,3 281,288,313,320,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47672.jpg 452,332,478,358,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47383.jpg 43,331,97,385,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1077.jpg 203,301,331,429,1 155,313,195,353,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3489.jpg 6,270,62,326,2 431,274,479,322,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_740.jpg 219,310,279,370,2 0,308,48,356,1 263,339,309,385,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46728.jpg 404,309,476,381,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48656.jpg 338,279,464,405,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3056.jpg 163,265,211,313,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1283.jpg 416,259,478,321,2 156,313,194,351,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_624.jpg 284,304,390,410,1 13,283,79,349,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3564.jpg -1,292,31,324,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1082.jpg 210,304,342,436,1 152,310,196,354,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2258.jpg 223,324,299,400,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48869.jpg 143,327,209,393,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2746.jpg 293,333,349,389,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47475.jpg 49,330,117,398,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45817.jpg 97,241,255,399,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2098.jpg 233,327,295,389,2 343,318,447,422,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48704.jpg 178,318,232,372,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_478.jpg 222,335,272,385,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_121.jpg 286,335,348,397,2 335,345,391,401,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3611.jpg 51,162,351,462,0 0,246,64,310,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_873.jpg 131,272,247,388,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1985.jpg 267,277,297,307,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45952.jpg 249,323,295,369,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47556.jpg 236,326,274,364,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3595.jpg 2,289,36,323,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2298.jpg 216,254,270,308,3 130,275,176,321,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_830.jpg 0,278,96,374,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46746.jpg 338,292,442,396,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_900.jpg 204,318,280,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2670.jpg 184,287,278,381,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3324.jpg 165,234,337,406,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1505.jpg 88,264,188,364,1 220,294,322,396,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_564.jpg 325,241,427,343,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46908.jpg 212,318,284,390,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/2/image_4530.jpg 279,243,377,341,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1418.jpg 446,282,478,314,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1996.jpg 264,278,294,308,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3140.jpg 215,310,283,378,2 30,296,94,360,1 295,338,359,402,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3262.jpg 112,274,148,310,3 196,275,226,305,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3620.jpg 0,274,68,342,1 287,347,345,405,2 98,220,298,420,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3541.jpg 3,261,67,325,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_39.jpg 139,181,417,459,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3543.jpg 146,253,280,387,1 307,334,371,398,2 0,262,112,374,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2556.jpg 288,229,360,301,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2453.jpg 290,244,348,302,2 3,250,83,330,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_810.jpg 0,284,42,326,1 373,284,479,390,1 422,311,476,365,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45853.jpg 0,273,94,367,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45831.jpg 7,245,157,395,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1122.jpg 198,319,312,433,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47293.jpg 361,283,479,401,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2088.jpg 234,330,288,384,2 365,325,475,435,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_911.jpg 287,265,335,313,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45839.jpg 0,257,126,383,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48409.jpg 395,278,479,362,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2437.jpg 192,249,334,391,0 172,334,224,386,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47396.jpg 8,326,68,386,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48041.jpg 116,289,214,387,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2154.jpg 219,333,267,381,2 108,271,218,381,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3468.jpg 110,292,190,372,1 329,249,473,393,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2120.jpg 227,338,271,382,2 247,298,367,418,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2078.jpg 229,322,293,386,2 416,341,478,403,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1210.jpg 264,250,350,336,1 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2133.jpg 166,273,308,415,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47354.jpg 139,329,203,393,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48022.jpg 224,286,320,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_971.jpg 175,268,223,316,3 243,425,339,521,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2412.jpg 137,333,187,383,2 311,256,439,384,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_943.jpg 222,323,284,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_537.jpg 278,340,342,404,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1948.jpg 83,226,259,402,0 411,369,461,419,2 77,308,121,352,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1842.jpg 304,302,416,414,1 193,348,225,380,3 -1,259,109,369,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47375.jpg 60,322,140,402,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1432.jpg 50,246,158,354,1 231,307,309,385,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47345.jpg 165,324,231,390,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_263.jpg 226,205,368,347,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1515.jpg 116,268,206,358,1 226,295,326,395,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1795.jpg 260,303,278,321,3 10,314,32,336,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1945.jpg 275,281,309,315,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2483.jpg 236,328,302,394,2 0,243,138,381,1 113,286,151,324,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1106.jpg 210,334,320,444,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3208.jpg 75,279,189,393,1 206,295,292,381,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48276.jpg 91,327,151,387,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48986.jpg 347,256,475,384,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46760.jpg 315,313,381,379,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3329.jpg 121,216,333,428,0 387,286,479,378,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46967.jpg 344,318,422,396,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_770.jpg 292,304,360,372,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1433.jpg 49,245,159,355,1 231,309,309,387,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46801.jpg 158,312,254,408,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1627.jpg 3,289,33,319,1 185,290,215,320,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1673.jpg 97,318,169,390,2 393,339,461,407,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1750.jpg 73,255,175,357,1 57,328,91,362,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2963.jpg 18,242,136,360,1 215,327,289,401,2 324,267,432,375,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2639.jpg 105,280,201,376,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48734.jpg 61,318,141,398,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2381.jpg 9,267,71,329,2 276,254,322,300,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3109.jpg 332,345,394,407,1 -1,286,79,366,1 260,326,322,388,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47651.jpg 424,331,458,365,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47349.jpg 143,309,217,383,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2057.jpg 229,259,273,303,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_597.jpg 181,252,297,368,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_703.jpg 71,266,181,376,1 142,300,216,374,2 208,353,238,383,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45915.jpg 137,327,203,393,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1932.jpg 277,280,303,306,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46047.jpg 387,331,421,365,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2065.jpg 226,323,294,391,2 416,337,478,399,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1814.jpg 270,293,294,317,3 0,295,52,347,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3017.jpg 163,264,293,394,1 340,337,420,417,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46715.jpg 434,334,478,378,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46764.jpg 299,318,375,394,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1421.jpg 447,258,479,290,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1893.jpg 287,287,313,313,3 306,267,340,301,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46418.jpg 149,333,205,389,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3691.jpg 1,290,39,328,2 206,211,418,423,0 164,347,200,383,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_583.jpg 248,252,322,326,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3393.jpg 24,101,462,539,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3530.jpg 6,238,146,378,1 166,247,312,393,0 306,330,386,410,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_2949.jpg 221,206,341,326,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1309.jpg 418,265,472,319,2 157,305,195,343,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_820.jpg 1,295,63,357,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46907.jpg 209,318,281,390,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49033.jpg 392,278,476,362,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_841.jpg 32,269,130,367,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46231.jpg 359,315,441,397,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48045.jpg 106,304,182,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_786.jpg 340,320,414,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3009.jpg 325,334,403,412,2 137,277,247,387,1 216,279,332,395,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1139.jpg 161,286,257,382,1 4,315,42,353,2 -1,293,25,319,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2802.jpg 238,323,306,391,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47433.jpg 0,344,42,386,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_299.jpg 99,271,207,379,1 254,313,318,377,2 303,330,375,402,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2785.jpg 246,324,312,390,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2985.jpg 177,275,237,335,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_650.jpg 61,291,137,367,2 256,257,394,395,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47558.jpg 240,330,288,378,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_932.jpg 235,314,291,370,1 417,343,477,403,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1904.jpg 234,158,314,238,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_246.jpg 122,207,268,353,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2129.jpg 214,289,320,395,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1312.jpg 183,142,197,156,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3406.jpg 22,270,68,316,2 299,278,335,314,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_607.jpg 213,350,315,452,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45861.jpg 0,293,96,389,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45987.jpg 308,324,358,374,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2486.jpg 238,326,306,394,2 2,247,136,381,1 105,299,159,353,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2818.jpg 280,210,478,408,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48038.jpg 123,270,255,402,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_226.jpg 287,332,347,392,2 344,349,398,403,2 44,241,186,383,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3592.jpg 311,348,361,398,2 0,234,168,402,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1379.jpg 146,276,172,302,3 300,274,336,310,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1047.jpg 156,292,228,364,1 185,286,293,394,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46461.jpg 268,329,326,387,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1991.jpg 264,267,294,297,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_279.jpg 314,220,430,336,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47620.jpg 378,330,426,378,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3238.jpg 183,262,291,370,0 288,299,354,365,1 257,310,313,366,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3183.jpg 159,270,205,316,3 368,261,410,303,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_994.jpg 150,298,198,346,3 213,406,333,526,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3062.jpg 363,344,429,410,1 44,279,150,385,1 275,311,343,379,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47574.jpg 278,337,316,375,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48311.jpg 169,320,243,394,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2705.jpg 393,226,461,294,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2366.jpg 65,318,113,366,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45862.jpg -1,292,97,390,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1797.jpg 261,301,279,319,3 5,311,33,339,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48840.jpg 90,332,154,396,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1327.jpg 381,265,439,323,2 155,282,199,326,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1778.jpg 63,319,113,369,2 155,268,261,374,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1625.jpg 1,287,31,317,1 188,295,210,317,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47666.jpg 438,328,478,368,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47439.jpg 0,344,48,392,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48741.jpg 58,333,120,395,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48356.jpg 263,293,361,391,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46792.jpg 202,311,304,413,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45785.jpg 365,263,479,377,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46493.jpg 334,293,438,397,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48788.jpg 5,328,79,402,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49043.jpg 390,281,478,369,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45926.jpg 163,322,233,392,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3567.jpg 310,343,372,405,2 108,253,218,363,1 1,265,111,375,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_371.jpg 128,312,186,370,2 235,292,323,380,1 188,271,262,345,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2173.jpg 209,331,263,385,2 41,276,141,376,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3466.jpg 14,267,66,319,3 389,271,431,313,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46492.jpg 337,311,431,405,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3363.jpg 22,276,62,316,2 241,283,269,311,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48668.jpg 309,315,375,381,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1919.jpg 218,158,290,230,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48084.jpg 0,256,28,284,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48893.jpg 188,323,258,393,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47287.jpg 415,310,477,372,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_758.jpg 433,317,479,363,2 294,402,342,450,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47670.jpg 449,330,479,360,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1270.jpg 398,226,478,306,1 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49011.jpg 371,267,479,375,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46848.jpg 127,329,193,395,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/4/image_8012.jpg 221,235,283,297,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2321.jpg 240,250,294,304,2 101,277,147,323,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_934.jpg 246,259,292,305,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48339.jpg 220,302,330,412,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2182.jpg 210,333,264,387,2 1,272,117,388,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_347.jpg 286,307,362,383,1 99,297,171,369,1 226,290,302,366,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2509.jpg 133,289,211,367,1 275,333,341,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48069.jpg 0,315,86,401,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48671.jpg 268,292,376,400,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1187.jpg 194,306,270,382,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_516.jpg 261,339,321,399,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46710.jpg 447,328,479,360,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45802.jpg 219,224,411,416,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2419.jpg 145,335,195,385,2 294,269,396,371,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3268.jpg 188,274,224,310,3 104,278,140,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1429.jpg 47,244,159,356,1 230,304,312,386,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3591.jpg 311,348,361,398,2 0,234,168,402,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_913.jpg 220,315,282,377,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2117.jpg 253,295,383,425,1 225,334,273,382,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2006.jpg 228,319,302,393,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47545.jpg 200,330,254,384,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2364.jpg 64,318,108,362,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_202.jpg 5,201,63,259,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_753.jpg 247,305,317,375,1 282,336,332,386,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3036.jpg 351,345,417,411,2 236,301,310,375,1 112,256,244,388,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3460.jpg 16,271,66,321,2 376,272,416,312,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45956.jpg 251,326,307,382,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_57.jpg 120,189,382,451,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2941.jpg 87,256,201,370,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_567.jpg 304,215,458,369,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47416.jpg 0,339,38,377,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_702.jpg 139,298,215,374,2 76,268,184,376,1 199,346,237,384,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_567.jpg 295,329,359,393,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48362.jpg 277,293,373,389,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_885.jpg 305,260,347,302,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1970.jpg 275,280,307,312,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2425.jpg 294,252,342,300,2 0,262,60,322,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45893.jpg 45,307,151,413,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1993.jpg 263,274,295,306,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2339.jpg 18,306,72,360,2 390,269,480,359,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1004.jpg 215,410,331,526,0 156,313,196,353,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2915.jpg 1,277,55,331,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3427.jpg 22,275,60,313,2 325,280,357,312,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3594.jpg 2,289,36,323,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2975.jpg 267,337,331,401,2 46,268,144,366,1 304,261,442,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49045.jpg 392,285,478,371,0 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1926.jpg 215,144,283,212,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48676.jpg 249,297,375,423,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1158.jpg 213,346,309,442,1 157,310,195,348,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48873.jpg 153,322,225,394,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2546.jpg 286,221,372,307,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48316.jpg 179,327,247,395,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2545.jpg 303,323,409,429,1 242,313,304,375,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_136.jpg 287,336,347,396,2 333,343,393,403,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48236.jpg 18,333,72,387,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_291.jpg 344,211,478,345,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3490.jpg 5,272,61,328,2 431,273,479,321,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3273.jpg 281,269,415,403,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_310.jpg 98,277,202,381,1 253,329,315,391,1 299,338,375,414,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3353.jpg 25,270,65,310,2 227,286,255,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3154.jpg 206,310,278,382,2 36,294,114,372,1 268,322,338,392,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48270.jpg 68,327,138,397,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1215.jpg 199,309,273,383,1 1,293,15,307,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_420.jpg 166,333,212,379,2 2,272,100,370,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47410.jpg 0,338,44,382,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45876.jpg 8,311,106,409,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2307.jpg 223,257,277,311,3 122,273,162,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_315.jpg 101,285,199,383,1 252,313,314,375,1 301,332,377,408,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45781.jpg 393,278,477,362,0 
+/home/jose/media/paper_2/todo/dataset_sept2021/2/image_4953.jpg 250,200,298,248,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1998.jpg 422,365,478,421,2 223,294,317,388,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1857.jpg 259,293,389,423,1 198,340,264,406,3 0,202,88,290,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46408.jpg 86,305,192,411,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2323.jpg 348,257,474,383,0 1,303,39,341,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3327.jpg 32,273,74,315,2 195,285,225,315,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3001.jpg 185,266,233,314,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2972.jpg 156,261,228,333,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48645.jpg 406,311,474,379,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46440.jpg 209,323,277,391,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1371.jpg 350,250,478,378,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2333.jpg 7,306,53,352,2 363,262,479,378,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1942.jpg 275,279,309,313,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3478.jpg 12,269,62,319,3 413,277,451,315,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2561.jpg 287,231,355,299,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48291.jpg 122,331,182,391,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_741.jpg 446,288,478,320,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3448.jpg 144,299,228,383,1 223,192,479,448,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_240.jpg 74,221,260,407,0 345,348,397,400,2 289,341,345,397,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45997.jpg 321,332,371,382,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2151.jpg 412,265,462,315,3 222,306,268,352,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1149.jpg 153,287,255,389,1 0,314,38,352,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1439.jpg 49,243,159,353,1 226,316,302,392,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_892.jpg 199,307,273,381,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3410.jpg 29,107,455,533,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_884.jpg 147,281,261,395,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2395.jpg 6,260,70,324,2 288,253,334,299,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_227.jpg 288,334,348,394,2 344,349,398,403,2 46,243,188,385,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1585.jpg 231,300,305,374,1 120,255,254,389,0 101,301,165,365,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3435.jpg 97,139,471,513,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48392.jpg 366,266,474,374,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1530.jpg 121,264,229,372,1 233,286,345,398,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45810.jpg 172,259,296,383,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48850.jpg 113,330,173,390,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48269.jpg 68,328,134,394,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3695.jpg 168,350,198,380,3 1,290,41,330,2 218,191,476,449,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47586.jpg 296,327,356,387,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2062.jpg 229,260,273,304,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1507.jpg 94,263,188,357,1 222,294,324,396,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2856.jpg 202,240,364,402,0 0,246,48,294,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2550.jpg 308,309,412,413,1 244,297,332,385,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_317.jpg 427,245,477,295,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_907.jpg 213,310,283,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_708.jpg 164,303,230,369,2 49,264,155,370,1 208,340,252,384,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1278.jpg 225,308,297,380,1 0,266,86,352,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_130.jpg 287,335,347,395,2 333,342,393,402,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47470.jpg 20,323,104,407,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48211.jpg 0,348,18,366,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_231.jpg 19,195,229,405,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_871.jpg 131,276,243,388,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2430.jpg 292,248,342,298,2 0,263,60,323,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2036.jpg 214,301,320,407,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_529.jpg 276,342,330,396,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_290.jpg 338,208,478,348,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3366.jpg 20,269,74,323,3 248,287,274,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3439.jpg 153,157,479,483,0 160,317,202,359,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3508.jpg 72,270,188,386,1 318,352,402,436,1 187,222,377,412,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46188.jpg 445,328,479,362,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1137.jpg 14,321,44,351,2 0,292,28,320,2 163,283,261,381,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2202.jpg 304,268,348,312,3 223,306,267,350,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1427.jpg 132,277,164,309,3 228,288,254,314,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46736.jpg 391,310,463,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1446.jpg 119,277,151,309,3 197,292,223,318,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2848.jpg 224,227,412,415,0 0,283,30,313,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/people1/image_3647.jpg 140,140,184,184,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_620.jpg 277,283,401,407,1 13,285,71,343,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_253.jpg 173,230,273,330,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3436.jpg 22,277,60,315,2 338,281,370,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2296.jpg 272,285,382,395,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1869.jpg 248,298,364,414,1 242,355,286,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47429.jpg 1,344,37,380,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2255.jpg 223,318,299,394,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3110.jpg 172,276,216,320,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_334.jpg 95,298,175,378,1 286,331,368,413,1 227,288,319,380,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_804.jpg 426,279,480,333,2 192,368,264,440,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45784.jpg 378,269,480,371,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_297.jpg 100,274,212,386,1 253,312,319,378,2 303,330,375,402,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1633.jpg 1,290,31,320,1 181,285,211,315,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3394.jpg 26,275,64,313,2 285,289,315,319,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1242.jpg 305,241,409,345,1 157,311,195,349,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_925.jpg 262,257,302,297,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3022.jpg 178,280,274,376,1 345,340,413,408,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48396.jpg 375,268,479,372,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2157.jpg 398,265,454,321,3 222,304,270,352,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_112.jpg 286,334,348,396,2 334,344,392,402,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2888.jpg 3,233,181,411,0 233,310,325,402,1 11,300,71,360,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_271.jpg 331,346,393,408,2 115,259,237,381,0 288,323,354,389,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45929.jpg 185,325,247,387,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_432.jpg 168,330,222,384,2 -1,283,49,333,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1918.jpg 124,271,222,369,1 351,352,411,412,3 0,270,94,364,0 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1921.jpg 217,161,287,231,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2457.jpg 2,263,92,353,1 89,243,237,391,1 216,347,258,389,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3309.jpg 204,242,360,398,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1971.jpg 275,281,307,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3289.jpg 248,266,360,378,1 372,285,476,389,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_723.jpg 194,309,256,371,2 0,254,118,372,1 236,346,274,384,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2215.jpg 222,305,268,351,3 282,272,326,316,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_160.jpg 285,333,347,395,0 335,346,395,406,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47447.jpg 4,338,56,390,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3359.jpg 22,274,66,318,2 235,285,261,311,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3024.jpg 163,268,213,318,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1249.jpg 1,281,57,337,1 218,326,280,388,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2166.jpg 214,330,270,386,2 69,280,185,396,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46837.jpg 120,321,198,399,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1443.jpg 49,241,159,351,1 226,310,298,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2285.jpg 212,256,264,308,3 155,276,199,320,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2335.jpg 246,253,294,301,2 78,271,122,315,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46831.jpg 121,322,197,398,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46867.jpg 135,328,215,408,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2613.jpg 263,253,319,309,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48006.jpg 324,286,420,382,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1281.jpg 225,308,297,380,1 0,275,86,361,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1764.jpg 229,298,251,320,3 60,312,78,330,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1317.jpg 39,236,167,364,1 227,308,295,376,2 0,278,52,330,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1220.jpg 264,245,354,335,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_382.jpg 129,241,275,387,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3354.jpg 75,158,399,482,0 327,306,467,446,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3492.jpg 2,270,62,330,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2226.jpg 208,320,280,392,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2127.jpg 221,305,269,353,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2302.jpg 218,255,272,309,3 128,274,172,318,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45960.jpg 252,316,312,376,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1531.jpg 195,283,225,313,3 210,296,228,314,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46006.jpg 331,326,377,372,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3362.jpg 9,128,393,512,0 358,343,424,409,1 423,337,477,391,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1917.jpg 148,290,224,366,1 349,353,407,411,3 0,273,94,367,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1563.jpg 4,279,112,387,1 196,277,306,387,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_808.jpg 418,308,476,366,1 0,286,40,326,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1105.jpg 20,285,102,367,2 168,261,282,375,1 73,316,113,356,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49018.jpg 386,274,478,366,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46385.jpg 15,307,115,407,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1020.jpg 201,387,343,529,1 156,313,196,353,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3259.jpg 265,223,455,413,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3544.jpg 2,265,64,327,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1678.jpg 138,290,168,320,3 170,300,194,324,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2476.jpg 234,325,300,391,2 29,255,151,377,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46416.jpg 141,327,201,387,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3192.jpg 156,270,194,308,3 336,255,390,309,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46462.jpg 269,327,331,389,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_236.jpg 71,224,251,404,0 335,344,395,404,2 288,338,348,398,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1481.jpg 51,245,157,351,1 228,289,330,391,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1556.jpg 196,285,226,315,3 227,295,255,323,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46069.jpg 427,328,469,370,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2648.jpg 256,246,324,314,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1006.jpg 218,413,328,523,0 155,313,195,353,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2504.jpg 121,290,201,370,1 267,337,333,403,1 0,264,26,290,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1362.jpg 46,215,160,329,1 217,281,337,401,1 0,267,84,351,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_944.jpg 222,324,282,384,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1312.jpg 411,266,465,320,2 155,301,197,343,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_589.jpg 223,251,309,337,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1624.jpg 160,315,222,377,2 288,323,362,397,2 0,288,40,328,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_147.jpg 286,335,346,395,2 334,344,394,404,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1568.jpg 196,283,222,309,3 226,297,250,321,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2292.jpg 211,253,265,307,3 145,281,191,327,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1825.jpg 25,239,179,393,0 134,331,186,383,2 359,328,443,412,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1753.jpg 219,297,243,321,3 74,309,98,333,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47600.jpg 339,333,387,381,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1714.jpg 62,319,112,369,2 1,300,27,326,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1184.jpg 192,305,270,383,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1464.jpg 119,277,151,309,3 180,283,210,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2152.jpg 219,333,267,381,2 131,280,227,376,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1928.jpg 278,284,304,310,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3205.jpg 76,283,178,385,1 192,293,288,389,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3641.jpg 138,180,430,472,0 0,277,48,325,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1149.jpg 212,343,310,441,1 157,310,195,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2943.jpg 0,243,108,351,1 149,317,229,397,2 278,253,412,387,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1612.jpg 187,289,211,313,3 215,296,235,316,3 201,287,231,317,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3376.jpg 20,269,74,323,3 263,285,287,309,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/people1/image_4648.jpg 234,140,250,156,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48795.jpg 18,332,84,398,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2289.jpg 211,254,265,308,3 151,278,197,324,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1110.jpg 205,329,317,441,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2518.jpg 285,321,363,399,1 176,295,236,355,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3276.jpg 270,262,420,412,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_258.jpg 182,208,312,338,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3258.jpg 265,226,449,410,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2223.jpg 271,271,309,309,3 222,304,270,352,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1021.jpg 139,280,245,386,1 250,303,320,373,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1779.jpg 246,298,266,318,3 38,314,58,334,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47584.jpg 295,327,357,389,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3368.jpg 29,149,367,487,0 315,327,393,405,0 423,337,477,391,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1787.jpg 252,300,272,320,3 25,318,41,334,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1194.jpg 192,305,266,379,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3496.jpg 0,269,58,327,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2012.jpg 229,308,305,384,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46716.jpg 432,332,480,380,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47009.jpg 449,321,479,351,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46823.jpg 129,329,195,395,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2227.jpg 223,301,273,351,3 264,269,306,311,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46405.jpg 98,319,182,403,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48633.jpg 422,332,478,388,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_696.jpg 93,256,215,378,0 187,347,231,391,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48818.jpg 47,328,115,396,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3163.jpg 61,299,131,369,1 203,306,271,374,2 248,318,332,402,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3392.jpg 21,100,461,540,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46981.jpg 394,321,448,375,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46254.jpg 274,322,346,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1454.jpg 48,247,158,357,1 220,305,302,387,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1375.jpg 148,269,174,295,3 306,278,336,308,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1412.jpg 137,276,171,310,3 250,289,268,307,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1343.jpg 51,249,155,353,1 220,326,288,394,2 2,267,88,353,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2405.jpg 129,333,177,381,2 311,237,473,399,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48921.jpg 244,311,338,405,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1876.jpg 285,287,315,317,3 214,286,236,308,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1580.jpg 114,249,266,401,0 249,310,297,358,1 91,297,157,363,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1111.jpg 204,328,318,442,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2973.jpg 41,262,145,366,1 269,336,329,396,2 310,265,440,395,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46263.jpg 201,291,339,429,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3497.jpg 74,281,184,391,1 188,190,448,450,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_560.jpg 357,237,477,357,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48877.jpg 153,328,225,400,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_170.jpg 287,332,347,392,0 345,348,397,400,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2961.jpg 142,296,214,368,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1508.jpg 165,278,195,308,3 186,294,208,316,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1616.jpg 154,319,224,389,2 2,295,76,369,0 291,313,345,367,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2114.jpg 220,297,270,347,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48966.jpg 360,261,478,379,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_264.jpg 329,341,399,411,2 113,256,241,384,0 288,328,352,392,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_156.jpg 285,333,347,395,0 335,344,395,404,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2896.jpg 3,247,151,395,0 233,305,337,409,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2162.jpg 388,266,448,326,3 222,304,270,352,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2817.jpg 281,210,479,408,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2616.jpg 32,258,136,362,1 392,279,478,365,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2378.jpg 11,267,73,329,2 272,256,312,296,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1463.jpg 118,277,150,309,3 180,281,210,311,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45966.jpg 276,323,318,365,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48220.jpg 0,337,40,377,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1618.jpg 157,314,225,382,2 0,272,66,338,0 293,316,349,372,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46506.jpg 397,312,465,380,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1303.jpg 414,257,478,321,2 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2490.jpg 250,323,318,391,1 -1,252,127,380,1 111,285,165,339,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48331.jpg 206,320,282,396,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46362.jpg 0,333,50,383,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1608.jpg 147,315,213,381,2 7,247,147,387,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2230.jpg 209,318,281,390,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2365.jpg 65,318,111,364,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46999.jpg 437,323,479,365,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2434.jpg 173,333,223,383,2 189,249,339,399,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46341.jpg 0,322,30,352,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1119.jpg 2,283,60,341,2 182,276,288,382,1 43,324,83,364,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46278.jpg 131,286,247,402,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_520.jpg 268,339,326,397,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47577.jpg 285,337,325,377,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47611.jpg 365,337,399,371,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1649.jpg 137,330,189,382,2 334,326,412,404,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46906.jpg 209,320,281,392,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46957.jpg 334,321,388,375,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2425.jpg 164,336,208,380,2 257,262,367,372,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46310.jpg 5,303,83,381,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_309.jpg 391,258,479,346,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3576.jpg 2,283,46,327,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46779.jpg 250,321,330,401,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46195.jpg 432,323,478,369,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_988.jpg 169,302,247,380,1 323,304,395,376,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3252.jpg 121,272,165,316,3 213,275,249,311,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1707.jpg 64,320,112,368,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1177.jpg 223,340,321,438,1 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2236.jpg 245,272,289,316,3 222,300,272,350,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2032.jpg 245,270,283,308,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/2/image_4966.jpg 253,200,303,250,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48287.jpg 110,329,172,391,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1912.jpg 206,196,246,236,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2736.jpg 285,329,355,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47369.jpg 60,307,168,415,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1341.jpg 52,251,154,353,1 224,320,296,392,2 1,266,87,352,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48367.jpg 284,274,392,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2172.jpg 222,305,268,351,3 371,271,409,309,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1347.jpg 155,258,203,306,3 360,275,410,325,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1593.jpg 226,294,248,316,3 192,286,216,310,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_927.jpg 258,258,296,296,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1176.jpg 219,341,321,443,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2050.jpg 228,260,272,304,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3050.jpg 351,345,417,411,2 62,255,176,369,1 269,302,337,370,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48932.jpg 282,312,372,402,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1523.jpg 116,262,220,366,1 238,288,344,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2744.jpg 288,336,354,402,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1957.jpg 277,276,309,308,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1000.jpg 151,307,197,353,3 212,405,334,527,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1015.jpg 134,279,240,385,1 224,286,334,396,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1843.jpg 286,290,314,318,3 74,292,102,320,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1132.jpg 201,330,311,440,1 157,311,193,347,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3023.jpg 162,265,216,319,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1810.jpg 268,294,292,318,3 3,306,39,342,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2442.jpg 290,246,346,302,2 3,263,73,333,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46979.jpg 390,318,444,372,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45885.jpg 40,309,112,381,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1298.jpg 12,252,120,360,1 226,308,298,380,2 0,290,30,320,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3554.jpg 138,257,256,375,1 305,343,367,405,2 0,263,114,377,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48223.jpg 0,335,50,385,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45780.jpg 416,289,478,351,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1775.jpg 62,319,112,369,2 154,268,250,364,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3372.jpg 29,141,387,499,0 427,336,477,386,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49028.jpg 387,275,477,365,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1299.jpg 12,251,120,359,1 226,309,296,379,2 0,290,30,320,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2186.jpg 222,305,268,351,3 343,272,383,312,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48860.jpg 133,333,187,387,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_91.jpg 89,193,343,447,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46807.jpg 145,306,253,414,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_258.jpg 104,249,246,391,0 343,346,399,402,2 288,333,352,397,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_524.jpg 271,334,331,394,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3209.jpg 75,278,193,396,1 206,297,292,383,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1087.jpg 71,293,133,355,1 159,236,339,416,1 107,321,157,371,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1563.jpg 196,284,224,312,3 228,296,252,320,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1540.jpg 154,272,242,360,1 228,290,330,392,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1913.jpg 284,287,310,313,3 411,274,471,334,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1477.jpg 130,280,158,308,3 164,284,198,318,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1180.jpg 184,295,276,387,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46738.jpg 382,308,458,384,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48338.jpg 219,302,329,412,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_534.jpg 279,343,339,403,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2667.jpg 291,251,343,303,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2582.jpg 294,295,424,425,1 391,264,479,352,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1578.jpg 194,284,220,310,3 226,294,250,318,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1865.jpg 287,289,313,315,3 155,280,183,308,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1001.jpg 214,407,332,525,0 151,309,197,355,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1054.jpg 153,297,225,369,1 203,290,299,386,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1582.jpg 91,244,261,414,0 240,308,304,372,1 94,298,158,362,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2348.jpg 248,249,310,311,2 58,277,108,327,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3321.jpg 185,244,337,396,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2143.jpg 166,301,284,419,1 237,353,267,383,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_249.jpg 103,244,255,396,0 330,342,398,410,2 290,345,346,401,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2225.jpg 208,321,278,391,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2024.jpg 215,299,309,393,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_852.jpg 35,258,175,398,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2224.jpg 223,302,271,350,3 269,271,307,309,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1398.jpg 132,268,174,310,3 261,264,319,322,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48023.jpg 225,298,303,376,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46390.jpg 43,320,119,396,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_212.jpg 1,267,83,349,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3628.jpg 0,280,60,340,1 128,210,332,414,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48058.jpg 35,292,139,396,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46963.jpg 345,318,407,380,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1094.jpg 215,328,337,450,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46017.jpg 343,333,389,379,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1277.jpg 224,309,298,383,1 0,267,84,351,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1141.jpg 160,287,254,381,1 1,310,41,350,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_541.jpg 279,330,357,408,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1368.jpg 345,244,477,376,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2214.jpg 222,305,268,351,3 285,275,329,319,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3222.jpg 146,276,180,310,3 270,267,314,311,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46266.jpg 203,296,333,426,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1401.jpg 132,268,174,310,3 260,275,298,313,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46412.jpg 124,328,188,392,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46826.jpg 129,329,195,395,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_576.jpg 293,334,361,402,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3364.jpg 1,124,393,516,0 343,340,409,406,1 421,335,475,389,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46857.jpg 138,327,200,389,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2604.jpg 272,253,334,315,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1234.jpg 206,314,290,398,1 1,297,31,327,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1224.jpg 268,243,362,337,1 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3399.jpg 22,100,464,542,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1561.jpg 196,283,226,313,3 228,294,252,318,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3420.jpg 21,275,59,313,2 315,283,345,313,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48841.jpg 90,329,156,395,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48941.jpg 294,284,402,392,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_749.jpg 434,315,478,359,2 304,408,352,456,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1697.jpg 74,318,126,370,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3050.jpg 159,262,213,316,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_753.jpg 432,318,480,366,2 301,402,345,446,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_685.jpg 146,250,282,386,0 132,313,180,361,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48766.jpg -1,316,79,396,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1546.jpg 218,289,322,393,1 180,292,246,358,1 0,296,28,324,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_131.jpg 287,336,347,396,2 333,340,393,400,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1388.jpg 139,271,175,307,3 286,278,322,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3096.jpg 340,337,418,415,1 0,278,68,346,1 292,336,342,386,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2159.jpg 394,266,448,320,3 222,304,270,352,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46030.jpg 364,329,404,369,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47320.jpg 265,318,343,396,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1889.jpg 158,267,308,417,1 267,342,339,414,3 0,290,60,350,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3527.jpg 12,247,154,389,1 314,329,392,407,1 173,249,317,393,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46430.jpg 168,319,246,397,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2851.jpg 218,223,412,417,0 0,253,40,293,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1661.jpg 174,300,190,316,3 158,296,178,316,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1685.jpg 96,324,136,364,2 429,338,475,384,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2692.jpg 209,298,325,414,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3138.jpg 26,295,94,363,1 218,311,286,379,2 306,339,364,397,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1170.jpg 214,342,316,444,1 157,310,195,348,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45922.jpg 138,320,218,400,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2414.jpg 137,334,189,386,2 310,257,436,383,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47389.jpg 18,326,86,394,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46976.jpg 377,317,439,379,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1101.jpg 212,323,336,447,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_269.jpg 330,343,396,409,2 116,258,240,382,0 286,322,354,390,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_536.jpg 277,339,343,405,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48364.jpg 279,285,377,383,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46919.jpg 256,331,302,377,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46233.jpg 354,308,428,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3425.jpg 22,274,60,312,2 323,278,355,310,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2939.jpg 134,312,226,404,2 0,244,98,342,1 273,257,401,385,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2021.jpg 252,264,288,300,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48226.jpg 0,337,56,393,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_190.jpg 287,335,347,395,2 335,347,395,407,2 1,164,77,240,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2029.jpg 248,265,286,303,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3176.jpg 165,276,207,318,3 379,259,439,319,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48760.jpg 2,319,88,405,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1903.jpg 363,279,405,321,3 287,287,313,313,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1085.jpg 218,315,334,431,1 151,309,197,355,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2530.jpg 287,236,355,304,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45946.jpg 228,323,278,373,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_688.jpg 137,263,245,371,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_563.jpg 330,240,438,348,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2661.jpg 281,250,337,306,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46393.jpg 66,325,128,387,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_807.jpg 417,306,477,366,1 0,285,42,327,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2701.jpg 242,318,322,398,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3562.jpg 130,263,230,363,1 311,343,373,405,2 1,267,107,373,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3099.jpg 163,273,211,321,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1019.jpg 200,384,346,530,1 157,314,195,352,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_528.jpg 275,343,329,397,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1267.jpg 0,271,66,337,1 217,320,289,392,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1737.jpg 207,305,223,321,3 94,306,114,326,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_756.jpg 262,301,336,375,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1772.jpg 241,301,259,319,3 47,311,67,331,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_774.jpg 271,291,377,397,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48315.jpg 177,325,247,395,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2672.jpg 186,289,282,385,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1684.jpg 140,297,164,321,3 170,298,194,322,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46471.jpg 281,315,367,401,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1708.jpg 178,299,200,321,3 123,301,145,323,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2398.jpg 4,260,70,326,2 289,251,335,297,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48923.jpg 262,315,344,397,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2645.jpg 112,278,222,388,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47536.jpg 194,334,238,378,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_993.jpg 158,298,242,382,1 287,289,397,399,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_572.jpg 294,331,360,397,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_218.jpg 289,335,347,393,2 3,225,197,419,0 344,347,398,401,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46057.jpg 400,321,456,377,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47282.jpg 436,320,476,360,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3449.jpg 353,274,397,318,3 16,268,66,318,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1415.jpg 226,309,296,379,1 49,247,159,357,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2110.jpg 221,298,269,346,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_314.jpg 98,282,202,386,1 254,326,316,388,1 301,335,377,411,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47622.jpg 380,330,428,378,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46838.jpg 120,322,198,400,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2261.jpg 224,323,300,399,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2583.jpg 291,253,339,301,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1669.jpg 102,322,166,386,2 382,336,446,400,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2816.jpg 284,209,478,403,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1583.jpg 236,304,304,372,1 116,256,260,400,0 98,300,166,368,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1781.jpg 246,294,270,318,3 35,317,53,335,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_946.jpg 225,262,263,300,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2702.jpg 245,317,325,397,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3320.jpg 44,277,82,315,2 188,282,224,318,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1618.jpg 188,295,208,315,3 209,297,227,315,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1316.jpg 37,231,175,369,1 227,310,295,378,2 -1,293,49,343,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1944.jpg 199,143,267,211,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1280.jpg 411,258,479,326,2 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3076.jpg 159,267,213,321,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2998.jpg 176,258,238,320,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46224.jpg 370,309,466,405,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2156.jpg 86,269,214,397,1 218,333,268,383,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45989.jpg 314,324,362,372,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1082.jpg 47,267,163,383,2 203,259,343,399,1 122,311,164,353,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2920.jpg 86,311,160,385,2 0,257,112,369,1 257,284,361,388,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1117.jpg 198,321,312,435,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2698.jpg 373,222,443,292,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_727.jpg -1,267,91,359,1 198,306,260,368,2 236,337,286,387,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2002.jpg 228,305,306,383,1 424,367,478,421,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46291.jpg 93,296,181,384,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48819.jpg 51,328,117,394,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3281.jpg 173,274,217,318,3 89,268,137,316,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1575.jpg 195,284,221,310,3 226,294,250,318,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2923.jpg 2,253,106,357,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2584.jpg 302,280,424,402,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_222.jpg 289,335,347,393,2 14,224,190,400,0 345,350,397,402,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1773.jpg 61,317,111,367,2 153,272,245,364,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46335.jpg 0,319,30,349,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2450.jpg 290,245,348,303,2 3,250,83,330,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_2957.jpg 207,217,345,355,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2968.jpg 149,272,225,348,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2974.jpg 158,262,228,332,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1908.jpg 286,285,312,311,3 399,286,427,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3522.jpg 14,250,164,400,1 177,243,327,393,0 318,327,396,405,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3122.jpg 173,301,215,343,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48337.jpg 215,291,323,399,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_337.jpg 95,299,173,377,1 287,334,367,414,1 233,290,313,370,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_302.jpg 97,268,205,376,1 255,313,317,375,2 302,331,376,405,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2694.jpg 206,296,328,418,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45796.jpg 256,225,446,415,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46334.jpg 0,321,30,351,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1262.jpg 383,233,469,319,1 156,313,194,351,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_921.jpg 223,316,283,376,1 430,369,478,417,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1409.jpg 138,274,174,310,3 251,285,275,309,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1026.jpg 144,281,248,385,1 236,304,304,372,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48327.jpg 200,326,268,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2427.jpg 168,335,214,381,2 203,243,357,397,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1447.jpg 119,277,151,309,3 200,295,220,315,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46951.jpg 305,314,373,382,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1806.jpg 267,299,287,319,3 3,312,27,336,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45963.jpg 267,332,311,376,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46084.jpg 439,322,479,362,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3534.jpg 15,264,75,324,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_509.jpg 256,332,320,396,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1624.jpg 188,298,208,318,3 0,289,30,319,1 205,301,221,317,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2323.jpg 239,249,295,305,2 98,278,144,324,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_662.jpg 91,308,151,368,2 250,267,356,373,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46200.jpg 426,318,480,372,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2876.jpg 79,231,257,409,0 232,308,306,382,1 0,301,56,357,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2066.jpg 230,262,274,306,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1824.jpg 28,243,182,397,0 341,315,455,429,2 132,330,186,384,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_496.jpg 230,331,304,405,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1128.jpg 200,327,310,437,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46860.jpg 140,329,202,391,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_271.jpg 269,213,397,341,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_222.jpg 5,239,127,361,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1444.jpg 49,239,159,349,1 224,309,298,383,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3074.jpg 158,265,214,321,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2262.jpg 225,323,301,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48852.jpg 119,329,181,391,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48638.jpg 423,317,477,371,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1011.jpg 206,406,316,516,0 156,313,196,353,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2319.jpg 331,257,457,383,0 0,319,20,339,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1887.jpg 169,271,309,411,1 268,349,330,411,1 0,224,60,284,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_473.jpg 203,333,267,397,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1654.jpg 132,331,182,381,2 336,326,414,404,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1543.jpg 196,279,226,309,3 225,300,243,318,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2864.jpg 136,233,320,417,0 0,248,44,292,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1388.jpg 374,268,478,372,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48648.jpg 393,308,465,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_261.jpg 341,344,401,404,2 107,253,241,387,0 289,333,351,395,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_649.jpg 62,292,134,364,2 256,256,396,396,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2497.jpg 251,181,419,349,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1207.jpg 190,308,264,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1703.jpg 175,299,197,321,3 128,301,152,325,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3271.jpg 251,248,435,432,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_767.jpg 279,319,361,401,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47372.jpg 60,306,170,416,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2505.jpg 120,288,204,372,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2946.jpg 104,253,214,363,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3458.jpg 16,268,68,320,2 372,271,414,313,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1948.jpg 193,140,265,212,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48815.jpg 43,327,113,397,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48082.jpg 0,321,32,353,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2163.jpg 384,266,446,328,3 222,304,270,352,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1595.jpg 47,250,187,390,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49031.jpg 390,277,476,363,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2098.jpg 221,280,265,324,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1093.jpg 218,331,332,445,1 157,310,195,348,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1640.jpg 176,286,206,316,3 0,286,30,316,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2190.jpg 216,332,272,388,2 1,273,75,347,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48019.jpg 243,272,373,402,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3272.jpg 180,278,218,316,3 99,278,135,314,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3574.jpg 71,236,203,368,1 311,349,367,405,2 1,266,109,374,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1165.jpg 159,283,265,389,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1366.jpg 144,260,192,308,3 320,276,360,316,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46273.jpg 189,312,257,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_252.jpg 98,241,256,399,0 332,341,398,407,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46065.jpg 404,318,464,378,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1807.jpg 101,250,229,378,1 406,332,474,400,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46360.jpg 0,339,46,385,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47990.jpg 399,298,477,376,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1498.jpg 62,254,178,370,1 219,291,321,393,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2806.jpg 236,321,306,391,2 374,269,478,373,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1372.jpg 47,250,159,362,1 223,300,303,380,1 0,286,30,316,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_841.jpg 8,156,250,398,1 379,251,437,309,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1182.jpg 191,304,271,384,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3080.jpg 350,335,434,419,1 0,276,104,380,1 281,321,355,395,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3334.jpg 201,280,235,314,3 29,271,73,315,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_700.jpg 80,260,200,380,1 196,342,234,380,2 163,313,209,359,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_833.jpg 4,275,102,373,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1561.jpg 6,282,100,376,1 197,279,307,389,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3104.jpg 345,347,407,409,1 0,285,78,363,1 270,326,334,390,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_915.jpg 279,260,335,316,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1776.jpg 244,300,262,318,3 40,311,62,333,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47317.jpg 272,309,382,419,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2718.jpg 270,338,342,410,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1393.jpg 386,274,478,366,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46910.jpg 217,320,285,388,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1604.jpg 1,234,157,390,0 145,312,211,378,2 258,329,320,391,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3110.jpg 331,342,391,402,1 0,286,80,366,1 273,332,323,382,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3317.jpg 191,242,347,398,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_917.jpg 277,263,327,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3307.jpg 222,242,378,398,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3053.jpg 60,263,168,371,1 360,345,418,403,2 273,308,339,374,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48848.jpg 105,328,171,394,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_884.jpg 305,260,347,302,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3416.jpg 23,109,445,531,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46719.jpg 428,316,478,366,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2000.jpg 223,295,317,389,1 421,367,479,425,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2540.jpg 286,225,368,307,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_912.jpg 218,313,282,377,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46436.jpg 198,323,264,389,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1155.jpg 153,283,253,383,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_38.jpg 140,176,424,460,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45816.jpg 93,237,261,405,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1070.jpg 211,337,297,423,1 155,313,195,353,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2134.jpg 168,292,300,424,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3112.jpg 172,279,216,323,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3002.jpg 136,276,226,366,1 332,346,384,398,2 245,277,359,391,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2919.jpg 83,307,161,385,2 0,259,114,373,1 255,288,359,392,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46458.jpg 255,313,321,379,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45996.jpg 320,332,370,382,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1368.jpg 51,251,159,359,1 218,280,326,388,1 2,285,58,341,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_372.jpg 127,312,187,372,2 239,296,319,376,1 170,268,260,358,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2409.jpg 136,333,186,383,2 313,247,453,387,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46372.jpg 1,326,65,390,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1882.jpg 196,282,312,398,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1268.jpg -1,271,67,339,1 218,320,290,392,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2246.jpg 221,309,299,387,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1767.jpg 125,267,227,369,1 58,318,112,372,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46712.jpg 438,338,478,378,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1748.jpg 218,300,236,318,3 79,310,101,332,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47492.jpg 85,338,141,394,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2072.jpg 223,319,299,395,2 421,342,477,398,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47011.jpg 452,349,478,375,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3361.jpg 18,131,396,509,0 330,318,438,426,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1861.jpg 286,290,314,318,3 128,274,172,318,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2764.jpg 268,335,338,405,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2473.jpg 31,269,121,359,1 291,244,351,304,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/people1/image_4943.jpg 66,211,276,421,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2365.jpg 261,248,311,298,2 30,265,84,319,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_41.jpg 142,190,402,450,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2558.jpg 334,294,444,404,1 262,304,342,384,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45979.jpg 290,326,350,386,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_858.jpg 55,267,187,399,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3139.jpg 27,295,93,361,1 217,310,285,378,2 294,335,360,401,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1817.jpg 270,292,296,318,3 5,295,57,347,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1715.jpg 186,303,206,323,3 114,301,138,325,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3129.jpg 16,296,88,368,1 304,336,376,408,2 226,317,304,395,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47595.jpg 336,339,366,369,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1990.jpg 226,288,326,388,1 423,362,479,418,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_293.jpg 257,311,323,377,2 307,331,377,401,2 100,266,216,382,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46778.jpg 258,319,336,397,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1530.jpg 195,283,225,313,3 211,297,227,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2394.jpg 96,327,154,385,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3538.jpg 9,262,69,322,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2173.jpg 222,305,268,351,3 366,270,404,308,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48033.jpg 125,258,285,418,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46196.jpg 430,321,478,369,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2062.jpg 225,320,297,392,2 417,338,477,398,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3603.jpg 0,385,22,407,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1140.jpg 156,310,194,348,3 208,330,316,438,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48836.jpg 84,328,152,396,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47999.jpg 365,285,475,395,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45964.jpg 269,326,313,370,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46178.jpg 457,353,479,375,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48689.jpg 229,316,293,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1872.jpg 236,289,342,395,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3195.jpg 156,272,192,308,3 330,263,384,317,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_890.jpg 191,298,271,378,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1910.jpg 224,164,298,238,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3199.jpg 156,276,190,310,3 323,267,369,313,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47572.jpg 269,332,313,376,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1651.jpg 179,301,197,319,3 169,290,185,306,3 0,355,18,373,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1272.jpg 400,234,478,312,1 156,313,194,351,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2537.jpg 297,308,405,416,1 196,287,290,381,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3535.jpg 156,248,300,392,0 0,252,124,376,1 308,341,380,413,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2214.jpg 211,314,275,378,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2450.jpg 132,254,258,380,0 0,280,50,330,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_368.jpg 124,306,186,368,1 244,297,330,383,1 198,291,268,361,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_573.jpg 294,332,360,398,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_370.jpg 126,310,186,370,2 192,274,264,346,1 235,292,325,382,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_925.jpg 221,314,283,376,1 428,372,478,422,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_292.jpg 349,213,479,343,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48055.jpg 36,277,170,411,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45951.jpg 247,325,293,371,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3030.jpg 160,266,212,318,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2689.jpg 340,238,410,308,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48936.jpg 288,299,386,397,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1994.jpg 264,277,294,307,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1502.jpg 159,283,185,309,3 178,285,210,317,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_506.jpg 255,334,315,394,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3375.jpg 21,269,75,323,2 262,286,286,310,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1565.jpg 196,284,222,310,3 226,297,250,321,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_674.jpg 157,242,313,398,0 112,302,174,364,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3509.jpg 74,268,188,382,1 187,225,377,415,0 316,349,404,437,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1442.jpg 49,243,159,353,1 225,311,299,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2549.jpg 306,312,412,418,1 240,295,330,385,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46521.jpg 432,310,480,358,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46718.jpg 428,331,478,381,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1214.jpg 196,306,274,384,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46987.jpg 404,314,472,382,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47659.jpg 433,332,477,376,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3657.jpg 145,154,479,488,0 0,309,42,351,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1755.jpg 220,296,244,320,3 70,310,92,332,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_784.jpg 332,311,398,377,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3643.jpg 118,167,442,491,0 0,281,48,329,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_563.jpg 297,342,359,404,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2413.jpg 293,253,341,301,2 -1,266,61,328,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3659.jpg 149,155,479,485,0 1,288,43,330,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1852.jpg 197,339,259,401,3 0,275,86,361,0 275,295,405,425,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46432.jpg 175,322,251,398,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46881.jpg 177,325,243,391,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_822.jpg 409,261,467,319,2 128,352,232,456,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2862.jpg 145,235,319,409,0 0,250,40,290,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3560.jpg 3,293,37,327,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3473.jpg 90,282,190,382,1 293,227,479,413,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3488.jpg 72,270,176,374,1 236,199,478,441,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47533.jpg 183,332,231,380,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47284.jpg 430,316,478,364,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1004.jpg 138,288,236,386,1 289,308,353,372,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_217.jpg 3,247,105,349,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_145.jpg 287,336,347,396,2 335,347,393,405,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1766.jpg 234,301,252,319,3 59,313,77,331,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1151.jpg 212,343,310,441,1 157,310,195,348,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45824.jpg 59,249,201,391,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47385.jpg 29,324,95,390,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1657.jpg 131,334,175,378,2 347,331,417,401,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1392.jpg 51,247,159,355,1 224,307,300,383,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1985.jpg 225,274,333,382,1 431,366,479,414,2 0,290,24,314,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48322.jpg 189,324,261,396,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45941.jpg 194,317,274,397,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1642.jpg 173,286,205,318,3 0,290,30,320,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46909.jpg 214,319,284,389,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3369.jpg 20,266,76,322,3 252,290,276,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1103.jpg 5,259,129,383,2 169,262,281,374,1 76,314,122,360,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1337.jpg 54,253,152,351,1 217,321,291,395,2 0,262,88,350,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1839.jpg 49,282,87,320,3 287,294,307,314,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46944.jpg 297,326,359,388,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2049.jpg 229,260,273,304,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1538.jpg 196,280,230,314,3 216,294,240,318,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3428.jpg 49,122,441,514,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_286.jpg 316,338,378,400,2 102,254,228,380,1 265,307,333,375,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3174.jpg 75,295,151,371,1 192,305,264,377,2 243,317,323,397,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2491.jpg 283,236,351,304,2 148,231,282,365,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1109.jpg 17,285,73,341,2 60,308,102,350,2 175,264,283,372,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2071.jpg 222,316,302,396,2 417,342,477,402,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1559.jpg 7,290,83,366,1 195,277,309,391,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2444.jpg 179,264,283,368,0 0,286,28,314,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_331.jpg 92,283,190,381,1 285,323,371,409,1 226,286,320,380,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_566.jpg 315,214,471,370,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1649.jpg 179,300,199,320,3 170,299,188,317,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2987.jpg 68,262,184,378,1 284,269,418,403,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1369.jpg 146,262,190,306,3 320,278,350,308,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1071.jpg 211,333,297,419,1 156,313,196,353,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1848.jpg 199,343,249,393,3 280,296,404,420,1 0,273,90,363,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48304.jpg 138,320,222,404,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_752.jpg 432,318,480,366,2 302,402,346,446,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2010.jpg 229,325,303,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47539.jpg 199,334,247,382,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46036.jpg 370,334,410,374,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1731.jpg 0,250,112,362,1 72,320,114,362,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2051.jpg 223,309,297,383,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3672.jpg 139,151,479,491,0 0,290,40,330,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3427.jpg 45,123,439,517,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3567.jpg -1,292,31,324,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2460.jpg 289,239,349,299,2 6,251,84,329,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3082.jpg 349,335,433,419,2 0,279,100,379,1 283,326,353,396,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45925.jpg 156,320,230,394,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45851.jpg 0,273,94,367,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3009.jpg 170,266,226,322,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3085.jpg 156,271,216,331,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/2/image_5000.jpg 252,207,296,251,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2279.jpg 232,295,332,395,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_66.jpg 99,182,369,452,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2253.jpg 223,307,301,385,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1793.jpg 256,300,276,320,3 15,315,33,333,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47607.jpg 352,333,398,379,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_595.jpg 289,297,387,395,1 1,292,29,320,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3590.jpg 310,347,362,399,2 0,237,166,403,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3589.jpg 311,347,361,397,2 7,243,157,393,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45896.jpg 42,297,168,423,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_614.jpg 271,398,359,486,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1555.jpg 187,272,315,400,1 1,292,65,356,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3331.jpg 30,273,72,315,2 197,280,231,314,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2482.jpg 288,239,350,301,2 86,269,166,349,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47582.jpg 292,328,352,388,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49036.jpg 390,283,476,369,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2437.jpg 285,244,345,304,2 0,264,66,330,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1386.jpg 48,248,160,360,1 219,310,289,380,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48942.jpg 298,282,406,390,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1169.jpg 155,280,269,394,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46899.jpg 207,325,265,383,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3011.jpg 167,267,227,327,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48342.jpg 224,308,330,414,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47655.jpg 432,330,468,366,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1237.jpg 290,225,400,335,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3140.jpg 173,311,215,353,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3568.jpg 309,343,371,405,2 0,265,110,375,0 109,251,217,359,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2971.jpg 153,265,227,339,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2212.jpg 212,323,274,385,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48761.jpg 2,320,86,404,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3021.jpg 344,340,412,408,2 183,279,277,373,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2349.jpg 34,310,88,364,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3253.jpg 120,271,164,315,3 212,276,246,310,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46796.jpg 186,322,270,406,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3473.jpg 13,268,63,318,2 401,279,443,321,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2576.jpg 372,262,480,370,0 297,280,411,394,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1930.jpg 211,136,283,208,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46244.jpg 304,293,408,397,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_3144.jpg 135,148,177,190,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2653.jpg 116,272,238,394,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_223.jpg 0,237,130,367,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_983.jpg 155,274,199,318,3 210,403,332,525,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1115.jpg 198,321,312,435,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2948.jpg -1,246,115,362,1 197,330,253,386,2 310,265,416,371,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2585.jpg 288,250,342,304,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_357.jpg 100,300,176,376,1 217,297,287,367,1 281,303,355,377,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_226.jpg 10,222,162,374,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_986.jpg 168,305,246,383,1 328,307,398,377,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2977.jpg 162,271,228,337,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1010.jpg 210,408,318,516,0 155,312,197,354,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3000.jpg 184,264,236,316,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2329.jpg -1,304,43,348,2 357,260,477,380,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2984.jpg 74,264,180,370,1 281,266,423,408,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_954.jpg 210,261,248,299,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_413.jpg 163,331,213,381,2 1,236,169,404,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3081.jpg 349,336,433,420,2 0,279,102,381,1 282,325,354,397,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_3142.jpg 134,148,176,190,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1383.jpg 360,262,476,378,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3398.jpg 25,273,63,311,2 287,283,317,313,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49004.jpg 365,261,479,375,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46889.jpg 186,327,248,389,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1573.jpg 195,283,223,311,3 226,294,250,318,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48080.jpg 0,318,38,356,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46884.jpg 179,326,247,394,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1216.jpg 197,308,273,384,1 1,292,17,308,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1165.jpg 214,345,308,439,1 157,310,195,348,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2485.jpg 112,250,208,346,0 285,238,349,302,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2898.jpg 3,254,135,386,0 236,306,336,406,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_259.jpg 179,199,325,345,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3103.jpg 167,276,211,320,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3286.jpg 173,269,223,319,3 84,270,128,314,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1844.jpg 292,298,410,416,2 199,350,229,380,3 0,257,106,363,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2935.jpg 52,252,172,372,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_79.jpg 96,193,354,451,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_915.jpg 219,321,285,387,1 435,351,477,393,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1305.jpg 419,253,475,309,2 156,309,194,347,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1163.jpg 158,282,260,384,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1946.jpg 197,144,265,212,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3553.jpg 138,253,258,373,1 305,342,367,404,2 0,263,114,377,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48752.jpg 6,317,96,407,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1709.jpg 63,320,113,370,2 1,305,25,329,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1877.jpg 286,286,316,316,3 217,283,243,309,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_187.jpg 288,335,346,393,2 343,348,399,404,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1134.jpg 160,276,268,384,1 0,293,30,323,2 18,319,48,349,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46448.jpg 220,317,302,399,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3564.jpg 122,245,226,349,1 312,344,372,404,2 0,263,108,371,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2082.jpg 231,261,273,303,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3447.jpg 352,273,392,313,3 20,273,60,313,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1923.jpg 217,157,287,227,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_991.jpg 153,294,197,338,3 212,406,332,526,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48397.jpg 379,270,479,370,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46327.jpg 0,322,44,366,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2140.jpg 222,307,268,353,3 446,280,478,312,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47564.jpg 240,315,302,377,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47532.jpg 175,334,223,382,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2422.jpg 294,250,342,298,2 0,262,60,322,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45865.jpg 0,302,104,406,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3318.jpg 47,274,87,314,2 187,279,223,315,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46221.jpg 371,308,469,406,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46863.jpg 139,329,209,399,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1356.jpg 149,262,193,306,3 340,269,382,311,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3015.jpg 337,332,421,416,2 174,270,306,402,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2417.jpg 137,334,189,386,2 307,269,409,371,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1972.jpg 274,282,306,314,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1038.jpg 198,388,338,528,1 152,312,200,360,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_690.jpg 133,267,239,373,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_352.jpg 98,300,172,374,1 279,297,361,379,1 222,293,300,371,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1597.jpg 225,293,249,317,3 190,283,218,311,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46255.jpg 272,321,342,391,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3004.jpg 184,267,228,311,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3291.jpg 173,274,217,318,3 81,275,117,311,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2412.jpg 293,252,343,302,2 -1,267,61,329,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46793.jpg 201,316,293,408,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3453.jpg 139,300,211,372,1 293,227,479,413,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1452.jpg 49,245,159,355,1 220,305,302,387,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1761.jpg 227,300,247,320,3 65,312,85,332,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3241.jpg 142,278,174,310,3 234,275,268,309,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48034.jpg 127,256,283,412,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1720.jpg 62,320,112,370,2 0,273,56,329,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2400.jpg 107,328,163,384,2 383,260,479,356,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3552.jpg 3,274,55,326,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3590.jpg 2,289,40,327,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2019.jpg 252,264,288,300,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_963.jpg 192,319,262,389,1 346,307,452,413,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1258.jpg 0,282,62,344,1 216,325,278,387,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2297.jpg 280,278,388,386,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_570.jpg 293,328,361,396,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_393.jpg 150,259,274,383,1 89,261,187,359,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48334.jpg 212,321,290,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48213.jpg -1,348,19,368,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2717.jpg 269,336,343,410,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3308.jpg 217,237,383,403,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46248.jpg 301,309,399,407,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49041.jpg 390,279,476,365,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45783.jpg 390,271,480,361,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47583.jpg 295,328,355,388,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2921.jpg 0,257,110,367,1 86,309,160,383,2 257,281,361,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_348.jpg 285,307,361,383,1 99,300,171,372,1 223,289,301,367,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48742.jpg 55,332,115,392,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_560.jpg 297,341,359,403,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47650.jpg 422,336,458,372,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46732.jpg 398,310,468,380,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48896.jpg 190,324,262,396,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2374.jpg 268,255,310,297,2 20,268,76,324,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3415.jpg 22,275,60,313,2 306,283,342,319,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2128.jpg 222,306,268,352,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2264.jpg 227,321,305,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46394.jpg 71,329,129,387,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2040.jpg 235,271,277,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_682.jpg 152,247,298,393,0 124,307,182,365,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46926.jpg 258,323,320,385,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3592.jpg 2,290,38,326,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_165.jpg 285,333,347,395,0 343,346,399,402,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48235.jpg 14,334,70,390,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3018.jpg 164,271,224,331,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2067.jpg 229,262,273,306,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3650.jpg 129,163,437,471,0 0,286,46,332,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_398.jpg 118,261,230,373,1 77,260,177,360,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1051.jpg 159,296,227,364,1 195,292,291,388,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3239.jpg 190,268,294,372,0 285,298,357,370,1 259,311,313,365,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48920.jpg 241,311,339,409,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2633.jpg 258,258,302,302,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3443.jpg 21,275,59,313,2 347,276,379,308,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3037.jpg 159,262,213,316,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1873.jpg 244,303,328,387,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1898.jpg 287,285,313,311,3 335,280,361,306,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48293.jpg 128,330,184,386,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3602.jpg 311,354,357,400,2 0,200,240,440,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47452.jpg 7,341,61,395,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47619.jpg 378,332,426,380,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2539.jpg 287,229,365,307,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1436.jpg 127,279,161,313,3 211,287,237,313,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3006.jpg 180,268,228,316,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46986.jpg 403,314,471,382,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45905.jpg 94,318,172,396,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1497.jpg 151,283,177,309,3 178,293,202,317,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3464.jpg 15,267,67,319,2 386,269,428,311,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1689.jpg 80,319,130,369,2 437,349,475,387,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1030.jpg 215,402,331,518,1 156,312,198,354,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48930.jpg 276,301,364,389,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1254.jpg 351,221,469,339,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1777.jpg 63,319,113,369,2 153,270,255,372,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_872.jpg 155,367,277,489,1 308,246,380,318,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3477.jpg 88,284,184,380,1 299,227,477,405,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2788.jpg 237,323,305,391,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3618.jpg 0,270,78,348,1 90,216,306,432,0 289,347,347,405,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3269.jpg 264,260,416,412,1 361,257,479,375,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2474.jpg 229,322,299,392,2 43,263,157,377,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3477.jpg 13,269,63,319,2 412,278,450,316,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_488.jpg 227,340,283,396,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48733.jpg 63,317,145,399,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1576.jpg 195,284,221,310,3 226,294,250,318,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1668.jpg 99,316,165,382,2 382,335,444,397,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_224.jpg 3,240,131,368,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3358.jpg 22,271,68,317,2 233,285,259,311,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3284.jpg 173,269,223,319,3 84,267,130,313,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46176.jpg 458,351,478,371,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_882.jpg 305,260,347,302,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_178.jpg 287,335,347,395,2 344,350,398,404,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1300.jpg 409,262,479,332,2 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2269.jpg 225,294,327,396,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_600.jpg 287,302,399,414,1 0,292,34,326,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_439.jpg 178,329,234,385,2 0,287,26,313,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2868.jpg 0,280,52,332,1 101,217,307,423,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1403.jpg 134,269,174,309,3 254,277,292,315,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1675.jpg 138,288,170,320,3 171,298,195,322,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2672.jpg 302,251,352,301,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1883.jpg 187,192,221,226,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1040.jpg 187,273,283,369,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46235.jpg 348,310,418,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2104.jpg 233,334,287,388,2 301,306,419,424,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_795.jpg 334,298,458,422,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2292.jpg 245,280,373,408,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_373.jpg 128,313,186,371,1 170,263,260,353,1 235,293,323,381,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2916.jpg 1,275,59,333,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2276.jpg 229,293,327,391,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2638.jpg 258,254,310,306,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3266.jpg 292,282,402,392,1 360,260,480,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2493.jpg 3,252,103,352,1 258,313,320,375,1 111,286,171,346,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_316.jpg 423,247,477,301,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3438.jpg 21,275,59,313,2 340,278,372,310,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48804.jpg 30,329,94,393,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48355.jpg 262,293,360,391,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1146.jpg 154,286,254,386,1 1,312,41,352,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_590.jpg 219,253,307,341,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2256.jpg 217,298,269,350,3 210,274,246,310,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2169.jpg 222,304,270,352,3 377,273,415,311,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2774.jpg 257,332,325,400,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3263.jpg 359,253,477,371,0 293,282,393,382,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3182.jpg 76,295,158,377,1 194,311,256,373,1 237,323,299,385,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2155.jpg 401,265,455,319,3 222,304,270,352,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_778.jpg 269,405,327,463,1 437,303,479,345,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1850.jpg 199,341,257,399,3 279,297,401,419,1 0,276,84,360,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3155.jpg 173,315,215,357,3 462,292,478,308,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_515.jpg 260,341,322,403,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2836.jpg 217,311,287,381,1 275,220,475,420,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47675.jpg 455,331,477,353,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46456.jpg 241,317,319,395,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1777.jpg 244,300,262,318,3 42,313,60,331,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1510.jpg 171,278,207,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_391.jpg 163,266,287,390,1 80,247,196,363,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1299.jpg 409,261,479,331,2 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46427.jpg 165,320,245,400,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47436.jpg 0,346,44,390,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1966.jpg 0,263,108,371,1 165,243,319,397,0 433,370,477,414,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2355.jpg 251,246,313,308,2 35,268,93,326,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_622.jpg 282,299,396,413,1 11,281,77,347,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3066.jpg 366,344,434,412,2 283,312,351,380,2 32,275,134,377,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46960.jpg 343,327,397,381,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3250.jpg 216,228,396,408,0 325,301,389,365,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48065.jpg 1,299,93,391,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_609.jpg 245,382,325,462,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48754.jpg 5,318,93,406,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1503.jpg 77,260,185,368,1 221,293,319,391,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_45.jpg 138,191,392,445,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1374.jpg 349,252,477,380,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3178.jpg 163,274,207,318,3 376,262,430,316,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2363.jpg 260,247,312,299,2 31,267,83,319,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1302.jpg 226,309,296,379,2 15,256,119,360,1 0,291,30,321,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1257.jpg 360,242,456,338,1 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1543.jpg 173,288,245,360,1 226,290,326,390,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_369.jpg 126,307,186,367,2 248,300,328,380,1 196,277,266,347,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1526.jpg 193,283,221,311,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3166.jpg 199,303,273,377,2 61,300,135,374,1 245,318,329,402,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1754.jpg 220,296,244,320,3 72,309,96,333,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3350.jpg 217,284,251,318,3 25,271,63,309,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2372.jpg 266,252,310,296,2 18,264,78,324,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48228.jpg 0,339,54,393,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2246.jpg 225,304,273,352,3 229,256,265,292,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2708.jpg 397,226,473,302,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2814.jpg 236,311,304,379,2 288,221,474,407,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2143.jpg 222,306,268,352,3 439,276,479,316,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2403.jpg 129,336,173,380,2 348,257,474,383,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46717.jpg 430,333,478,381,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1871.jpg 286,288,314,316,3 186,276,222,312,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2762.jpg 272,339,346,413,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47346.jpg 160,310,232,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1315.jpg 404,265,462,323,3 156,296,198,338,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_848.jpg 36,262,164,390,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_811.jpg -1,284,43,328,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2183.jpg 222,305,268,351,3 345,267,389,311,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2516.jpg 284,324,360,400,1 172,302,224,354,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2426.jpg 167,337,209,379,2 235,250,369,384,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_608.jpg 2,287,46,331,2 287,302,403,418,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1914.jpg 217,158,293,234,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47507.jpg 114,336,174,396,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48947.jpg 311,260,433,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2351.jpg 247,246,311,310,2 47,276,103,332,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47424.jpg 0,339,36,375,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1559.jpg 196,283,226,313,3 228,296,252,320,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1086.jpg 68,290,136,358,1 110,321,158,369,2 167,244,337,414,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2592.jpg 277,247,343,313,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_553.jpg 403,207,477,281,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/2/image_5145.jpg 238,184,280,226,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_551.jpg 422,216,478,272,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_479.jpg 222,333,276,387,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_960.jpg 194,258,242,306,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2809.jpg 238,310,306,378,2 350,261,478,389,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2479.jpg 60,263,150,353,1 289,243,351,305,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_780.jpg 263,404,319,460,1 437,301,479,343,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48787.jpg 5,328,79,402,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46077.jpg 440,329,478,367,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_790.jpg 332,297,452,417,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48961.jpg 350,257,476,383,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2640.jpg 257,252,313,308,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_2944.jpg 217,206,333,322,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1382.jpg 357,260,477,380,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46326.jpg -1,319,49,369,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2937.jpg 61,256,183,378,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47336.jpg 188,304,302,418,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3302.jpg 235,251,373,389,1 392,315,478,401,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47340.jpg 179,318,255,394,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_252.jpg 162,239,268,345,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3526.jpg 13,265,77,329,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1636.jpg 1,286,31,316,1 187,295,207,315,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48768.jpg 1,320,75,394,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46487.jpg 337,318,413,394,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1324.jpg 155,290,199,334,3 383,261,445,323,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1314.jpg 183,141,197,155,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2595.jpg -1,286,55,342,1 383,302,445,364,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_633.jpg 283,294,399,410,1 7,283,93,369,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2949.jpg 111,257,213,359,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1009.jpg 212,409,322,519,0 155,312,197,354,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2723.jpg 446,249,478,281,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2272.jpg 220,277,266,323,3 178,276,218,316,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46238.jpg 340,314,408,382,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2812.jpg 237,311,305,379,2 311,230,479,398,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_809.jpg 419,307,477,365,1 0,285,40,325,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3167.jpg 197,303,273,379,2 61,301,135,375,1 245,321,325,401,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_765.jpg 276,320,360,404,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_899.jpg 300,254,348,302,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3059.jpg 163,266,211,314,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46836.jpg 119,321,199,401,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1918.jpg 216,197,256,237,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3088.jpg 0,280,90,370,1 337,330,429,422,1 291,331,351,391,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2978.jpg 163,273,227,337,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45933.jpg 195,323,261,389,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46220.jpg 371,290,473,392,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1738.jpg 208,305,224,321,3 93,307,113,327,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46873.jpg 157,324,225,392,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1888.jpg 280,275,316,311,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1599.jpg 14,238,172,396,0 143,310,205,372,2 253,328,313,388,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2061.jpg 226,320,298,392,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2928.jpg 9,215,181,387,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3434.jpg 22,275,60,313,2 336,282,368,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1937.jpg 386,365,456,435,3 20,217,228,425,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1989.jpg 227,288,325,386,1 422,362,478,418,2 0,294,12,306,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1885.jpg 181,273,309,401,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2074.jpg 224,319,298,393,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_891.jpg 195,303,273,381,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1007.jpg 217,413,327,523,0 155,313,195,353,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48071.jpg 0,324,72,396,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47997.jpg 361,279,479,397,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3548.jpg 2,270,58,326,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_365.jpg 117,302,185,370,1 262,323,336,397,1 188,287,282,381,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3289.jpg 172,270,220,318,3 82,275,120,313,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1931.jpg 387,363,441,417,3 0,230,180,410,0 124,276,192,344,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1680.jpg 138,289,168,319,3 170,298,194,322,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1264.jpg 0,276,66,342,1 217,322,285,390,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3454.jpg 138,301,208,371,1 310,237,476,403,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2485.jpg 236,327,304,395,2 1,246,137,382,1 107,303,157,353,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2881.jpg 61,243,215,397,0 1,298,63,360,1 232,303,310,381,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_605.jpg 191,329,311,449,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_409.jpg 2,233,170,401,1 161,329,211,379,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1829.jpg 277,296,301,320,3 38,300,58,320,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1092.jpg 216,332,324,440,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1077.jpg 54,264,186,396,1 230,275,340,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1023.jpg 246,299,322,375,1 142,278,244,380,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1970.jpg -1,263,109,373,1 435,369,477,411,2 190,242,346,398,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1261.jpg 379,234,459,314,1 156,313,194,351,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_906.jpg 210,310,282,382,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1978.jpg 1,268,53,320,1 220,262,336,378,1 433,369,479,415,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_887.jpg 304,259,348,303,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2893.jpg 2,247,158,403,0 237,310,333,406,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2310.jpg 231,260,279,308,3 117,273,159,315,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_719.jpg 5,252,127,374,1 187,311,247,371,2 228,341,268,381,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2105.jpg 221,290,269,338,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48231.jpg 0,335,60,395,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_449.jpg 194,336,238,380,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48866.jpg 141,331,201,391,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3041.jpg 158,261,214,317,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1597.jpg 26,241,184,399,0 144,334,198,388,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2581.jpg 297,278,423,404,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_651.jpg 60,288,140,368,2 254,257,390,393,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48845.jpg 98,328,166,396,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2247.jpg 224,302,272,350,3 227,258,263,294,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2464.jpg 5,253,85,333,1 292,240,348,296,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1083.jpg 46,266,162,382,2 185,252,345,412,1 120,313,162,355,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48347.jpg 239,309,337,407,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48310.jpg 158,317,238,397,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_850.jpg 38,258,172,392,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3182.jpg 160,272,204,316,3 372,267,414,309,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45984.jpg 296,327,354,385,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48657.jpg 336,295,462,421,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1276.jpg 0,266,84,350,1 223,308,299,384,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2562.jpg 287,231,353,297,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1938.jpg 199,136,275,212,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1113.jpg 47,314,93,360,2 4,281,62,339,2 178,267,288,377,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_161.jpg 286,334,346,394,0 336,345,394,403,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3013.jpg 165,268,225,328,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2630.jpg 260,258,300,298,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1632.jpg 155,327,217,389,2 298,316,380,398,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1411.jpg 431,285,479,333,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_694.jpg 104,255,220,371,0 189,388,225,424,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2384.jpg 9,264,69,324,2 278,254,326,302,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/people0/image_1390.jpg 380,271,478,369,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1329.jpg 44,247,154,357,1 226,309,296,379,2 0,288,64,352,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2360.jpg 257,245,313,301,2 31,267,85,321,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_72.jpg 94,192,360,458,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1064.jpg 121,288,195,362,2 177,350,207,380,2 219,281,315,377,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2391.jpg 96,320,154,378,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_362.jpg 105,298,183,376,1 266,321,344,399,1 184,284,282,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3295.jpg 76,276,110,310,2 174,279,212,317,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48230.jpg 0,338,56,394,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2519.jpg 175,293,239,357,1 286,321,364,399,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_374.jpg 130,317,184,371,1 164,260,260,356,1 232,285,326,379,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_842.jpg 0,147,254,401,1 377,252,421,296,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2069.jpg 228,265,276,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2211.jpg 212,324,276,388,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1758.jpg 68,311,88,331,3 223,297,247,321,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1351.jpg 52,249,156,353,1 218,309,312,403,2 2,271,80,349,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3127.jpg 173,307,215,349,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3329.jpg 32,273,74,315,2 195,284,227,316,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/0/image_55.jpg 126,194,378,446,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48004.jpg 336,283,438,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1914.jpg 165,290,229,354,1 349,360,401,412,3 0,268,84,352,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46776.jpg 265,322,337,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_459.jpg 197,330,253,386,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_140.jpg 287,338,347,398,2 334,345,392,403,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47585.jpg 295,328,355,388,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46421.jpg 156,327,224,395,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48858.jpg 127,333,183,389,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46230.jpg 363,310,459,406,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3576.jpg 68,236,198,366,1 311,349,367,405,2 0,264,112,376,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2658.jpg 273,251,333,311,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1788.jpg 141,255,281,395,1 70,320,122,372,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1866.jpg 286,288,314,316,3 159,278,189,308,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2031.jpg 198,292,306,400,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1881.jpg 186,192,220,226,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2970.jpg 151,263,229,341,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49053.jpg 428,307,478,357,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2067.jpg 225,322,297,394,2 415,364,479,428,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2831.jpg 228,321,294,387,1 274,217,474,417,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47430.jpg 1,344,37,380,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_201.jpg 287,334,347,394,2 344,349,398,403,2 2,256,124,378,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2052.jpg 224,309,298,383,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48938.jpg 289,293,393,397,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3208.jpg 152,277,184,309,3 298,268,342,312,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_792.jpg 232,390,302,460,1 434,291,478,335,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3533.jpg 2,245,132,375,1 160,248,304,392,0 307,336,383,412,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_830.jpg 79,268,209,398,1 396,254,472,330,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46818.jpg 135,330,203,398,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47468.jpg 23,327,97,401,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2076.jpg 230,259,276,305,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2641.jpg 257,250,313,306,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47652.jpg 427,336,463,372,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_231.jpg 45,224,239,418,0 288,336,346,394,2 335,346,395,406,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48289.jpg 114,330,174,390,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2471.jpg 20,263,112,355,1 291,243,351,303,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1181.jpg 222,316,354,448,1 156,311,194,349,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2513.jpg 161,300,217,356,1 282,327,352,397,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47450.jpg 6,338,60,392,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3604.jpg -1,181,271,453,0 311,352,355,396,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45838.jpg 0,254,132,386,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1716.jpg 62,319,112,369,2 0,296,28,324,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3432.jpg 89,131,475,517,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1768.jpg 235,300,255,320,3 55,313,71,329,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1227.jpg 275,244,373,342,1 157,311,195,349,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1606.jpg 189,292,213,316,3 217,295,239,317,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2000.jpg 264,279,294,309,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3274.jpg 96,275,134,313,2 177,276,217,316,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2284.jpg 235,306,339,410,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/2/image_4526.jpg 284,237,390,343,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_522.jpg 266,330,328,392,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1937.jpg 201,134,281,214,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2515.jpg 280,229,350,299,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46784.jpg 223,314,323,414,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45975.jpg 286,326,346,386,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47639.jpg 409,330,445,366,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1749.jpg 218,299,238,319,3 78,309,102,333,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2634.jpg 259,258,303,302,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2965.jpg 18,250,138,370,1 228,332,296,400,2 323,266,435,378,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48892.jpg 188,323,256,391,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2429.jpg 169,335,215,381,2 190,244,350,404,0 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1947.jpg 195,142,265,212,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2592.jpg 336,278,444,386,1 0,276,44,320,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3476.jpg 90,282,186,378,1 296,222,478,404,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2985.jpg 72,264,180,372,1 278,265,424,411,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1723.jpg 195,303,213,321,3 109,306,131,328,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47603.jpg 341,332,391,382,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46258.jpg 243,310,339,406,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1881.jpg 285,285,317,317,3 232,276,274,318,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3341.jpg 100,207,328,435,0 383,284,479,380,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_216.jpg 3,253,97,347,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1568.jpg 2,276,132,406,1 189,267,291,369,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_935.jpg 245,259,291,305,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1752.jpg 74,255,182,363,1 57,324,97,364,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48811.jpg 45,330,107,392,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3020.jpg 163,264,221,322,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_125.jpg 287,336,347,396,2 334,344,392,402,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1862.jpg 238,286,390,438,1 237,350,273,386,3 3,170,75,242,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3255.jpg 119,270,163,314,3 209,280,241,312,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47609.jpg 358,336,398,376,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_289.jpg 337,209,479,351,1 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1900.jpg 194,195,230,231,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_359.jpg 101,298,181,378,1 184,280,292,388,1 269,325,347,403,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2488.jpg 246,324,314,392,2 0,250,132,382,1 108,286,162,340,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2725.jpg 275,334,343,402,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2673.jpg 303,250,357,304,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_490.jpg 228,332,296,400,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1124.jpg 172,271,288,387,1 1,286,53,338,2 25,305,73,353,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48898.jpg 198,326,266,394,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48800.jpg 26,333,88,395,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2005.jpg 227,307,305,385,1 431,370,479,418,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48323.jpg 189,324,261,396,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1091.jpg 215,334,323,442,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2321.jpg 345,257,471,383,0 0,316,24,340,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2371.jpg 265,253,311,299,2 18,264,78,324,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45866.jpg 0,300,104,404,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47399.jpg 2,328,60,386,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_660.jpg 73,296,153,376,2 253,263,367,377,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1547.jpg 197,279,227,309,3 225,299,245,319,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3174.jpg 168,281,208,321,3 383,258,445,320,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46955.jpg 323,326,383,386,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1938.jpg 264,191,316,243,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3245.jpg 135,275,173,313,3 228,272,262,306,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47437.jpg 0,343,46,389,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_358.jpg 100,300,180,380,1 213,294,285,366,1 279,303,353,377,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2370.jpg 62,320,114,372,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2903.jpg 73,308,133,368,2 3,253,123,373,0 252,292,350,390,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_284.jpg 102,253,230,381,1 312,337,378,403,2 267,307,335,375,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2351.jpg 38,312,88,362,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3330.jpg 31,275,73,317,2 197,282,229,314,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2913.jpg 86,303,156,373,2 0,254,118,372,1 258,292,358,392,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46009.jpg 335,326,379,370,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48020.jpg 239,277,361,399,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48933.jpg 282,311,374,403,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1785.jpg 250,298,272,320,3 30,321,46,337,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1627.jpg 160,326,220,386,2 302,321,374,393,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_185.jpg 287,334,347,394,2 343,348,399,404,2 -1,181,61,243,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48901.jpg 206,324,278,396,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_45916.jpg 137,327,205,395,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2578.jpg 299,286,401,388,1 378,265,480,367,0 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_1907.jpg 230,161,304,235,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1421.jpg 133,275,167,309,3 228,281,266,319,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1662.jpg 120,324,168,372,2 372,334,426,388,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3646.jpg 129,172,435,478,0 0,285,48,333,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_299.jpg 365,241,479,355,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2630.jpg 48,263,180,395,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2170.jpg 214,332,266,384,2 53,278,153,378,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48386.jpg 345,256,473,384,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48829.jpg 77,330,137,390,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1884.jpg 186,190,222,226,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_229.jpg 288,332,348,392,2 48,235,220,407,0 344,349,398,403,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1755.jpg 78,258,202,382,1 57,318,105,366,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3157.jpg 207,310,277,380,2 48,290,120,362,1 248,315,334,401,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46755.jpg 325,305,405,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1804.jpg 107,250,235,378,1 414,334,476,396,1 95,339,141,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_446.jpg 193,338,237,382,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_49022.jpg 386,274,478,366,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1938.jpg 392,364,464,436,2 31,223,233,425,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2041.jpg 209,292,317,400,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2481.jpg 76,264,160,348,1 289,242,351,304,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2599.jpg 274,248,340,314,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47012.jpg 447,345,479,377,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1411.jpg 137,275,173,311,3 253,292,269,308,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1828.jpg 277,297,299,319,3 35,298,57,320,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_979.jpg 174,303,248,377,1 346,308,410,372,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2711.jpg 262,322,338,398,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2211.jpg 223,306,267,350,3 291,273,339,321,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3689.jpg 165,167,465,467,0 1,290,39,328,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48939.jpg 290,288,396,394,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1357.jpg 148,262,192,306,3 338,270,378,310,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46202.jpg 423,326,479,382,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1310.jpg 416,265,472,321,2 157,303,195,341,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_277.jpg 117,260,237,380,1 325,342,387,404,2 272,305,346,379,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1320.jpg 395,263,455,323,3 155,294,199,338,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1332.jpg 156,272,200,316,3 375,268,431,324,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2103.jpg 221,287,267,333,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1973.jpg 0,263,98,361,1 205,255,335,385,0 434,370,478,414,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46434.jpg 194,329,256,391,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_594.jpg 290,298,386,394,1 0,290,28,318,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2619.jpg 262,252,312,302,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46391.jpg 48,320,122,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1115.jpg 48,320,90,362,2 1,276,61,336,2 180,270,288,378,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3557.jpg 0,286,48,334,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2048.jpg 214,307,292,385,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3145.jpg 212,303,278,369,2 30,303,98,371,1 294,338,354,398,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_989.jpg 172,307,246,381,1 285,287,399,401,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_346.jpg 289,309,363,383,1 226,288,302,364,1 98,296,172,370,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2003.jpg 223,297,317,391,1 428,368,478,418,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1759.jpg 66,310,88,332,3 224,299,246,321,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46420.jpg 156,333,220,397,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1250.jpg 337,212,465,340,1 156,310,194,348,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1943.jpg 68,227,256,415,0 400,366,464,430,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_770.jpg 436,304,478,346,2 276,399,336,459,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1152.jpg 152,285,254,387,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3103.jpg 345,345,411,411,1 0,274,78,352,1 273,328,333,388,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_973.jpg 180,310,252,382,1 355,322,427,394,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2574.jpg 367,260,479,372,0 295,283,403,391,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3295.jpg 246,258,372,384,1 381,312,477,408,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3227.jpg 117,267,239,389,1 222,312,318,408,1 275,309,339,373,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1672.jpg 98,319,168,389,2 386,340,454,408,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_611.jpg 255,391,345,481,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1934.jpg 1,214,207,420,0 389,365,451,427,3 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_229.jpg 22,207,210,395,0 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_2411.jpg -1,267,61,329,2 293,252,343,302,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_689.jpg 136,266,240,370,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1084.jpg 68,289,142,363,2 182,250,342,410,1 113,315,159,361,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2902.jpg 2,252,124,374,0 76,310,130,364,2 248,291,348,391,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3532.jpg 15,265,77,327,2 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1138.jpg 162,284,260,382,1 14,322,44,352,2 0,293,26,319,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1815.jpg 270,293,294,317,3 1,290,53,342,3 
+/home/jose/media/paper_2/todo/dataset_sept2021/1/image_1306.jpg 184,141,198,155,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1061.jpg 141,296,205,360,1 213,277,311,375,1 174,340,216,382,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46931.jpg 263,318,335,390,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48994.jpg 354,258,478,382,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1296.jpg 15,259,115,359,1 226,309,296,379,2 0,290,30,320,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3306.jpg 224,241,382,399,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1015.jpg 196,397,326,527,0 157,317,197,357,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48687.jpg 234,325,298,389,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_233.jpg 56,211,260,415,0 286,333,348,395,2 335,346,395,406,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_790.jpg 240,395,306,461,1 435,300,479,344,2 
+/home/jose/media/paper_2/todo/dataset_sept2021/6/image_3033.jpg 201,193,447,439,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48682.jpg 254,311,352,409,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48940.jpg 292,286,400,394,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_3221.jpg 271,267,315,311,3 147,276,181,310,3 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48016.jpg 246,257,400,411,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_551.jpg 292,330,362,400,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46367.jpg 0,333,56,389,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1557.jpg 191,271,313,393,1 0,273,78,351,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47508.jpg 120,338,180,398,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_535.jpg 278,341,340,403,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_47332.jpg 186,295,312,421,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1955.jpg 421,372,473,424,2 41,273,119,351,1 134,251,272,389,0 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46422.jpg 156,324,228,396,2 
+/home/jose/media/paper_2/datasets/house1_rgb/image_48002.jpg 356,287,462,393,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_578.jpg 247,238,335,326,1 
+/home/jose/media/paper_2/datasets/house1_rgb/image_46042.jpg 376,334,416,374,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1206.jpg 189,308,265,384,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2741.jpg 283,327,359,403,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3339.jpg 98,209,324,435,0 384,282,480,378,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_1466.jpg 45,241,167,363,1 223,316,303,396,1 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_1402.jpg 133,268,175,310,3 259,275,297,313,3 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2531.jpg 178,280,284,386,1 290,322,390,422,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2108.jpg 227,335,281,389,2 270,291,412,433,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3560.jpg 133,252,239,358,1 310,343,372,405,2 0,265,110,375,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2091.jpg 231,326,293,388,2 353,323,469,439,1 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3539.jpg 158,253,292,387,1 0,256,114,370,1 309,338,377,406,2 
+/home/jose/media/paper_2/datasets/nibio_2019_rgb/image_261.jpg 198,195,356,353,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_3433.jpg 101,141,469,509,0 
+/home/jose/media/paper_2/datasets/house3_rgb/image_2322.jpg 346,258,470,382,0 0,315,28,343,2 

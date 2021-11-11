@@ -1,10 +1,11 @@
 import sys
 import cv2
+from tqdm import tqdm
 
 file_dict = dict()
 
 with open(sys.argv[1], 'r') as labels:
-    for l in labels:
+    for l in tqdm(labels):
         img, id, bcx,bcy, bcw, bch = l.rstrip().split(" ")
         cv_img = cv2.imread(img)
         w,h,c = cv_img.shape
@@ -31,7 +32,7 @@ with open(sys.argv[1], 'r') as labels:
 
 
 with open (sys.argv[2], 'a') as new_labels:
-    for key, value in file_dict.items():
+    for key, value in tqdm(file_dict.items()):
         sentence = str()
         for detection in value:
             sentence += ",".join(map(str,detection))
