@@ -1,0 +1,10 @@
+/home/jose/media/elsevier/datasets/house1_rgb/image_49220.jpg
+/home/jose/media/elsevier/datasets/house1_rgb/image_49221.jpg
+/home/jose/media/elsevier/datasets/house1_rgb/image_49222.jpg
+/home/jose/media/elsevier/datasets/house1_rgb/image_49223.jpg
+/home/jose/media/elsevier/datasets/house1_rgb/image_49224.jpg
+/home/jose/media/elsevier/datasets/house1_rgb/image_49225.jpg
+/home/jose/media/elsevier/datasets/house1_rgb/image_49226.jpg
+/home/jose/media/elsevier/datasets/house1_rgb/image_49227.jpg
+/home/jose/media/elsevier/datasets/house1_rgb/image_49228.jpg
+/home/jose/media/elsevier/datasets/house1_rgb/image_49229.jpg

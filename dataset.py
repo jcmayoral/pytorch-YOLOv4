@@ -255,7 +255,7 @@ class Yolo_dataset(Dataset):
         truth = {}
         f = open(lable_path, 'r', encoding='utf-8')
         for line in f.readlines():
-            data = line.split(" ")
+            data = line.rstrip().split(" ")
             truth[data[0]] = []
             for i in data[1:]:
                 truth[data[0]].append([int(float(j)) for j in i.split(',')])
@@ -270,8 +270,9 @@ class Yolo_dataset(Dataset):
         if not self.train:
             return self._get_val_item(index)
         img_path = self.imgs[index]
+        #print (img_path, self.cfg.dataset_dir)
         bboxes = np.array(self.truth.get(img_path), dtype=np.float)
-        img_path = os.path.join(self.cfg.dataset_dir, img_path)
+        #img_path = os.path.join(self.cfg.dataset_dir, img_path)
         use_mixup = self.cfg.mixup
         if random.randint(0, 1):
             use_mixup = 0
@@ -292,7 +293,7 @@ class Yolo_dataset(Dataset):
             if i != 0:
                 img_path = random.choice(list(self.truth.keys()))
                 bboxes = np.array(self.truth.get(img_path), dtype=np.float)
-                img_path = os.path.join(self.cfg.dataset_dir, img_path)
+                #img_path = os.path.join(self.cfg.dataset_dir, img_path)
             img = cv2.imread(img_path)
             img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
             if img is None:
@@ -391,7 +392,7 @@ class Yolo_dataset(Dataset):
         """
         img_path = self.imgs[index]
         bboxes_with_cls_id = np.array(self.truth.get(img_path), dtype=np.float)
-        img = cv2.imread(os.path.join(self.cfg.dataset_dir, img_path))
+        img = cv2.imread(img_path)#os.path.join(self.cfg.dataset_dir, img_path))
         # img_height, img_width = img.shape[:2]
         img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
         # img = cv2.resize(img, (self.cfg.w, self.cfg.h))
@@ -409,7 +410,7 @@ class Yolo_dataset(Dataset):
         return img, target
 
 
-def get_image_id(filename:str) -> int:
+def old_get_image_id(filename:str) -> int:
     """
     Convert a string to a integer.
     Make sure that the images and the `image_id`s are in one-one correspondence.
@@ -429,6 +430,17 @@ def get_image_id(filename:str) -> int:
     no = f"{int(no):04d}"
     return int(lv+no)
 
+def get_image_id(filename:str) -> int:
+    #print("You could also create your own 'get_image_id' function.")
+    ##filename = "/home/123.jpg 11,34,56,78,0
+    parts = filename.split(' ')[0]
+    add_number = len(parts) #number of digits
+    parts = parts.replace('image', '1000')
+    #get filename.jpg then remove .jpg and split _
+    parts1 = parts.split('/')[-1].split(".")[0].split("_")
+    id = int(parts1[-1].split(".")[0]) + add_number
+    return id
+
 
 if __name__ == "__main__":
     from cfg import Cfg
@@ -436,7 +448,7 @@ if __name__ == "__main__":
 
     random.seed(2020)
     np.random.seed(2020)
-    Cfg.dataset_dir = '/mnt/e/Dataset'
+    Cfg.dataset_dir = 'data'
     dataset = Yolo_dataset(Cfg.train_label, Cfg)
     for i in range(100):
         out_img, out_bboxes = dataset.__getitem__(i)

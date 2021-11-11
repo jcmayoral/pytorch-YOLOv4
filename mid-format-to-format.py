@@ -21,17 +21,21 @@ with open(sys.argv[1], 'r') as labels:
         ny2 = ny + range_w//2
 
         if img not in file_dict.keys():
-            file_dict[img] = [nx1,ny1, nx2, ny2, id]
+            file_dict[img] = list()
+            file_dict[img].append([nx1,ny1, nx2, ny2, id])
 
         else:
             #print("key found", img)
-            file_dict[img].extend([nx1,ny1, nx2, ny2, id])
+            file_dict[img].append([nx1,ny1, nx2, ny2, id])
 
 
 
 with open (sys.argv[2], 'a') as new_labels:
     for key, value in file_dict.items():
-        sentence = ",".join(map(str,value))
+        sentence = str()
+        for detection in value:
+            sentence += ",".join(map(str,detection))
+            sentence += " "
         sentence = key + " " + sentence
         new_labels.write(sentence+"\n")
 
