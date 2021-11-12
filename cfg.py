@@ -22,7 +22,7 @@ Cfg.use_darknet_cfg = False
 Cfg.cfgfile = os.path.join(_BASE_DIR, 'cfg', 'yolov4-tiny-4classes.cfg')
 
 Cfg.batch = 64
-Cfg.subdivisions = 16
+Cfg.subdivisions = 4
 Cfg.width = 256
 Cfg.height = 256
 Cfg.channels = 3
@@ -46,7 +46,7 @@ Cfg.mixup =0
 
 Cfg.letter_box = 0
 Cfg.jitter = 0.2
-Cfg.classes = 4
+Cfg.classes = 1
 Cfg.track = 0
 Cfg.w = Cfg.width
 Cfg.h = Cfg.height
